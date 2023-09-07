@@ -3,7 +3,7 @@
 <div align="justify">
  <h3 align="left">✨ Introdução</h3>
  <div style="display: inline_block">
-    <img align="right" src="Imagens/lari.jpeg" height="350" width="250">
+    <img align="right" src="Imagens/6bb6b4ad-9a26-4db2-9ee4-3aad7656c408.jpg" height="350" width="250">
   <div>
 Sou aluna do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, e estou cursando o 5º semestre. Minha vida é moldada por paixões, amo meu marido, meus três cachorros, plantas, cuidar da minha casa e estudar. 
 <br><br>
