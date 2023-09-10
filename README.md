@@ -62,6 +62,48 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 <br>
  </div>
 
+## 🖥️ Projetos 
+<div align="center">
+    <a href="#1sem"> 1° Semestre 2021-1</a>
+</div>
+
+### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
+<div style="display: inline_block">
+    <img align="left" src="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/Logo%203.png" width="300">
+</div>
+<span id="1sem">
+A visualização dos projetos de Aprendizagem por Projeto Integrador da Fatec SJC era feita atráves do site da Fatec. No entanto, ao selecionar uma equipe desejada, apenas o link do YouTube era disponibilizado, com o GitHub da equipe na descrição do vídeo. Isso apresentou um problema crítico, pois o cliente não tinha controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza se os projetos no GitHub estariam sempre disponíveis e protegidos.
+
+A solução consistiu na clonagem de todos os APIs e na criação de uma página web com os projetos em um formato organizado e de fácil navegação. Para tornar o processo de coleta dos links do YouTube mais eficiente, foi desenvolvido também um sistema automatizado de raspagem das URLs do canal da Fatec SJC.
+
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/sprints.png" width="800"> </p>
+
+### Resultado Final ✅
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif"> </p>
+
+#### Tecnologias Utilizadas
+* CSS3: Estilização do site
+* Figma: Editor gráfico e Prototipagem
+* Git: Versionamento
+* GitHub: Hospedagem de código
+* HTML5: Estruturação das páginas do site
+* Netlify: Hospedagem do site
+* Python: Criação do código
+* Whimsical: Prototipagem
+
+#### Contribuições Pessoais
+Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, na elaboração de wireframes, na realização de reuniões de planejamento e retrospectiva. Além disso, também participei do time responsável pela construção das páginas web e pela implementação da raspagem de dados usando Python.
+
+#### Hard Skills
+* HTML e CSS: Desenvolvimento web
+* Python: Raspagem de dados
+* Git: Controle de versionamento
+* Figma e Whimsical: Prototipagem
+
+#### Soft Skills
+* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Ouvir e compreender os outros
+* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Compartilhar responsabilidades e contribuir ativamente para objetivos compartilhados
+* Gestão do Tempo: Capacidade de gerenciar tarefas e projetos de forma eficiente, priorizando atividades e cumprindo prazos.
  
  ##
 
