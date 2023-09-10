@@ -10,7 +10,7 @@ Sou aluna do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tec
 <br><br>
 A minha primeira graduação se iniciou em 2017 no curso de Licenciatura em Química pelo Instituto Federal de São Paulo (IFSP), essa experiência me agregou demasiados conhecimentos e vivências, como participação em congresso, realização de projetos pedagógicos, participação em iniciação científica com estudo de nanopartículas de zircônia na UNIFESP e o estágio aplicando aulas em escolas públicas de ensino médio. Depois, iniciei meu processo de mestrado no INPE, contudo por motivos maiores decidi fazer uma transição de carreira para a área de tecnologia, inspirando-me na carreira do meu marido.
 <br><br>
-Cursando o quarto semestre de ADS, resolvi participar de um processo seletivo de estágio para entrar na instituição financeira DM. O processo contou com 7 etapas, consegui passar por todas e iniciar minha primeira experiência profissional na área. Atualmente, trabalho na área de inovação que tem como foco o produto PIX PARCELADO que se resume em uma alternativa as formas de pagamento tradicionais de compras (dinheiro, cartão de crédito e débito). Esse produto foi e está sendo desenvolvido do zero, assim atuo nas task de front e back-end (tenho mais domínio e preferência por tasks de back). No começo do estágio foi desafiador, pois tive que lidar com tecnologias e linguagens que não tive contato na faculdade, exemplo: Golang, Flutter, HBS, Docker e Kubernetes, NEXT JS (framework para react), banco de dados com arquitetura em grafo (Neptune), arquitetura de micros serviço, GRPC para comunicação entre diferentes sistemas via conexão de rede, além de outros serviços da AWS, Microsoft, Datadog e Keycloak. Além dessas tecnologias que não tinha domínio, tenho contato também com linguagens conhecidas por meio da fatec, como Java, React, Typescript e Python.
+Cursando o quarto semestre de ADS, participei de um processo seletivo de estágio para entrar na instituição financeira DM. O processo contou com 7 etapas, consegui passar por todas e iniciar minha primeira experiência profissional na área. Atualmente, trabalho na área de inovação que tem como foco o produto PIX PARCELADO que se resume em uma alternativa as formas de pagamento tradicionais de compras (dinheiro, cartão de crédito e débito). Esse produto foi e está sendo desenvolvido do zero, assim atuo nas task de front e back-end (tenho mais domínio e preferência por tasks de back). No começo do estágio foi desafiador, pois tive que lidar com tecnologias e linguagens que não tive contato na faculdade, exemplo: Golang, Flutter, HBS, Docker e Kubernetes, NEXT JS (framework para react), banco de dados com arquitetura em grafo (Neptune), arquitetura de micros serviço, GRPC para comunicação entre diferentes sistemas via conexão de rede, além de outros serviços da AWS, Microsoft, Datadog e Keycloak. Além dessas tecnologias que não tinha domínio, tenho contato também com linguagens conhecidas por meio da fatec, como Java, React, Typescript e Python.
 <br><br>
 Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cursos para aprofundar meus conhecimentos:
 
@@ -82,16 +82,45 @@ Em termos técnicos, foi necessário automatizar o processo de clonagem dos repo
 
 #### Tecnologias Utilizadas
 * CSS3: Estilização do site
-* Figma: Editor gráfico e Prototipagem
 * Git: Versionamento
 * GitHub: Hospedagem de código
 * HTML5: Estruturação das páginas do site
-* Netlify: Hospedagem do site
 * Python: Criação do código
 * Whimsical: Prototipagem
+* VsCode: Ambiente de Desenvolvimento
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, na elaboração de wireframes, na realização de reuniões de planejamento e retrospectiva. Além disso, também participei do time responsável pela construção das páginas web e pela implementação da raspagem de dados usando Python.
+No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilicar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxília no processo de raspagem das URLs e clonagem dos links.
+
+##### Código automatizados de clonagem:
+
+````
+import git
+
+def nome_pasta(texto):
+    count = 0
+    texto = texto[19:]
+    for l in texto:
+        if (l == "/"):
+            return texto[:count]
+        count = count + 1
+    return ""
+
+
+with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f:
+    for line in f:
+        print("clonando endereço: ", line)
+        remoteurl= line.rstrip("\n")
+
+        nomePasta = nome_pasta(remoteurl)
+        
+        localfolder=f"C:/Users/thale/Desktop/API/API_1SEM/teste_clonagem/" +nomePasta
+
+        myrepo = git.Repo.clone_from(remoteurl, localfolder, env={"GIT_SSH_COMMAND": 'ssh -i C:/Users/jenny/.ssh/id_rsa'})
+
+        print(f"projeto {nomePasta} clonado com sucesso!")
+````
+
 
 #### Hard Skills
 * HTML e CSS: Desenvolvimento web
