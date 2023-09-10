@@ -96,7 +96,7 @@ Em termos técnicos, foi necessário automatizar o processo de clonagem dos repo
 * VsCode: Ambiente de Desenvolvimento
 
 #### Contribuições Pessoais
-No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilicar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxília no processo de raspagem das URLs e clonagem dos links.
+No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
 
 ##### Código Automatizador de Clonagem:
 
