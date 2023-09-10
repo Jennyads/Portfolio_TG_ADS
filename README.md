@@ -12,7 +12,22 @@ A minha primeira graduação se iniciou em 2017 no curso de Licenciatura em Quí
 Cursando o quarto semestre de ADS, resolvi participar de um processo seletivo de estágio para entrar na instituição financeira DM. O processo contou com 7 etapas, consegui passar por todas e iniciar minha primeira experiência profissional na área. Atualmente, trabalho na área de inovação que tem como foco o produto PIX PARCELADO que se resume em uma alternativa as formas de pagamento tradicionais de compras (dinheiro, cartão de crédito e débito). Esse produto foi e está sendo desenvolvido do zero, assim atuo nas task de front e back-end (tenho mais domínio e preferência por tasks de back). No começo do estágio foi desafiador, pois tive que lidar com tecnologias e linguagens que não tive contato na faculdade, exemplo: Golang, Flutter, HBS, Docker e Kubernetes, NEXT JS (framework para react), banco de dados com arquitetura em grafo (Neptune), arquitetura de micros serviço, GRPC para comunicação entre diferentes sistemas via conexão de rede, além de outros serviços da AWS, Microsoft, Datadog e Keycloak. Além dessas tecnologias que não tinha domínio, tenho contato também com linguagens conhecidas por meio da fatec, como Java, React, Typescript e Python.
 <br><br>
 Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cursos para aprofundar meus conhecimentos:
- | [Formação: Gerencie aplicações react com typescript ](https://cursos.alura.com.br/degree/certificate/ccb135f1-3245-48bd-b166-bc3550e386f9) |
+
+ ##
+
+<h3 align="left">💻 Projetos </h3> 
+<div align="left">
+  
+ |   Curso  |   
+ | :------: |   
+ | [Formação: Gerencie aplicações react com typescript](https://cursos.alura.com.br/degree/certificate/ccb135f1-3245-48bd-b166-bc3550e386f9) |
+
+
+> _Clique em uma das opções acima para ver mais detalhes sobre os projetos desenvolvidos._
+ 
+</div>
+
+ ##
     
 <br><br>
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - desenvolvidos durante minha trajetória no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. Colaborei com a construção de cinco projetos, entregues um em cada semestre desde o início da graduação. 
