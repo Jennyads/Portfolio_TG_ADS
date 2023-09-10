@@ -15,8 +15,8 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
 
  ##
 
-<h3 align="left">💻 Cursos </h3> 
-<div align="left">
+<h3 align="center">💻 Cursos </h3> 
+<div align="center">
   
   
  |   Curso  |    Plataforma de Ensino    |
