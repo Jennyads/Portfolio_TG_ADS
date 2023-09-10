@@ -122,7 +122,7 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 ````
 
 ##### Manual de Operação e Técnico:
-
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/manuais.png" width="800"> </p>
 
 
 #### Hard Skills
