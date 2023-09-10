@@ -15,12 +15,15 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
 
  ##
 
-<h3 align="left">💻 Projetos </h3> 
+<h3 align="left">💻 Cursos </h3> 
 <div align="left">
   
- |   Curso  |   
- | :------: |   
- | [Formação: Gerencie aplicações react com typescript](https://cursos.alura.com.br/degree/certificate/ccb135f1-3245-48bd-b166-bc3550e386f9) |
+  
+ |   Curso  |    Plataforma de Ensino    |
+ | :------:      | :------: |
+ | [Formação: Gerencie aplicações react com typescript](https://cursos.alura.com.br/degree/certificate/ccb135f1-3245-48bd-b166-bc3550e386f9) | Alura |
+ | [HTTP: entendendo a web por baixo dos panos](https://cursos.alura.com.br/certificate/576aa4cb-c3d5-4493-8db7-9ce2f159b989) | Alura |
+ | [Rect: Gerenciando estado com recoil](https://cursos.alura.com.br/certificate/4c1e072a-0cfd-4671-930c-3a15a61a6b3d) | Alura |
 
 
 > _Clique em uma das opções acima para ver mais detalhes sobre os projetos desenvolvidos._
@@ -48,7 +51,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  | 4° Semestre   | Plataforma web para gerenciamento de chamados internos   | 
  | 5° Semestre   | Aplicação mobile para cadastro de equipamentos públicos em campo    |
 
-> _Clique em uma das opções acima para ver mais detalhes sobre os projetos desenvolvidos._
+> _Clique em uma das opções acima para ver mais detalhes sobre os cursos desenvolvidos._
  
 </div>
 
