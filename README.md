@@ -134,7 +134,7 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 #### Hard Skills
 * HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada.
 * Python: Aprendi a realizar raspagem de dados, permitindo a coleta e análise de informações de forma eficaz.
-* Git: Melhorou a experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores.
+* Git: Adquiri experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores.
 
 #### Soft Skills
 * Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
