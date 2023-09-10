@@ -55,9 +55,10 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
  
 </div>
 
- ##
-    
+## Principais Conhecimentos 💡
+<img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=golang"/> <img src="https://skillicons.dev/icons?i=dart"/> <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=kubernetes"/> <img src="https://skillicons.dev/icons?i=postman"/> <img src="https://skillicons.dev/icons?i=mysql"/> <img src="https://skillicons.dev/icons?i=idea"/> <img src="https://skillicons.dev/icons?i=flutter"/> <img src="https://skillicons.dev/icons?i=dynamodb"/> <img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=azure"/> <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://skillicons.dev/icons?i=androidstudio"/> <img src="https://skillicons.dev/icons?i=kafka"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=mongodb"/> <img src="https://skillicons.dev/icons?i=nextjs"/> <img src="https://skillicons.dev/icons?i=postgres"/> 
 <br><br>
+
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - desenvolvidos durante minha trajetória no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. Colaborei com a construção de cinco projetos, entregues um em cada semestre desde o início da graduação. 
 <br>
  </div>
