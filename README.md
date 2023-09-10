@@ -78,7 +78,12 @@ Em termos técnicos, foi necessário automatizar o processo de clonagem dos repo
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprints.png" width="800"> </p>
 
 ### Resultado Final ✅
-<p align="center"> <img src =""> </p>
+#### Automatização:
+<p align="center"> <img width=600 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/automatizador.gif"> </p>
+
+#### Aplicação web:
+<p align="center"> <img width=600 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/site.gif"> </p>
+
 
 #### Tecnologias Utilizadas
 * CSS3: Estilização do site
