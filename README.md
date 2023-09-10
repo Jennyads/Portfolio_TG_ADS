@@ -67,14 +67,10 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
     <a href="#1sem"> 1° Semestre 2021-1</a>
 </div>
 
-### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
-<div style="display: inline_block">
-    <img align="left" src="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/Logo%203.png" width="300">
-</div>
-<span id="1sem">
-A visualização dos projetos de Aprendizagem por Projeto Integrador da Fatec SJC era feita atráves do site da Fatec. No entanto, ao selecionar uma equipe desejada, apenas o link do YouTube era disponibilizado, com o GitHub da equipe na descrição do vídeo. Isso apresentou um problema crítico, pois o cliente não tinha controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza se os projetos no GitHub estariam sempre disponíveis e protegidos.
+### 2021-2 | [GIT](https://github.com/EquipeApolo/API_1SEM)
 
-A solução consistiu na clonagem de todos os APIs e na criação de uma página web com os projetos em um formato organizado e de fácil navegação. Para tornar o processo de coleta dos links do YouTube mais eficiente, foi desenvolvido também um sistema automatizado de raspagem das URLs do canal da Fatec SJC.
+<span id="1sem">
+A solução problema que guiou esse projeto foi 
 
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/sprints.png" width="800"> </p>
 
@@ -105,24 +101,6 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 * Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Compartilhar responsabilidades e contribuir ativamente para objetivos compartilhados
 * Gestão do Tempo: Capacidade de gerenciar tarefas e projetos de forma eficiente, priorizando atividades e cumprindo prazos.
  
- ##
-
-<h3 align="left">💻 Projetos </h3> 
-<div align="left">
-  
- |   API  |    Descrição    |
- | :------:      | :------: |
- | [1° Semestre]()   | Website para armazenar os projetos desenvolvidos pelos alunos da FATEC |
- | 2° Semestre   | Aplicação desktop para centralizar troca de informações entre empresa e clientes  | 
- | 3° Semestre   | Aplicação web para cálculo de distância de pouso de aeronaves     | 
- | 4° Semestre   | Plataforma web para gerenciamento de chamados internos   | 
- | 5° Semestre   | Aplicação mobile para cadastro de equipamentos públicos em campo    |
-
-> _Clique em uma das opções acima para ver mais detalhes sobre os cursos desenvolvidos._
- 
-</div>
-
- ##
  
 <h3 align="left">📑 	Conhecimentos Técnicos </h3> 
  <!-- Back-end / Front-end / DevOps -->
