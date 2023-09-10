@@ -70,12 +70,14 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 ### 2021-2 | [GIT](https://github.com/EquipeApolo/API_1SEM)
 
 <span id="1sem">
-A solução problema que guiou esse projeto foi 
+A solução para o problema que orientou este projeto foi aprimorar a acessibilidade e a segurança da visualização dos Projetos de Aprendizagem por Projeto Integrador da Fatec SJC. Inicialmente, a visualização desses projetos era realizada por meio do site da Fatec, onde ao selecionar uma equipe desejada, apenas o link do YouTube estava disponível, com o GitHub da equipe na descrição do vídeo. No entanto, essa abordagem apresentou insegurança e instabilidade no controle desses projetos, uma vez que a Fatec não possuía controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza em relação à disponibilidade e à proteção contínua dos projetos no GitHub. Dessa forma, o projeto buscou solucionar essas preocupações, garantindo maior confiabilidade, controle e preservação dos recursos acadêmicos e de aprendizado que passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web dirigida pela rede administrativa da FATEC.
 
-<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/sprints.png" width="800"> </p>
+Em termos técnicos, foi necessário automatizar o processo de clonagem dos repositórios existentes no Github, assim criou-se um script em python para tal efeito. Após finalizar a etapa de raspagem, todos os repositórios clonados de forma automatizada foram exibidos em uma página web construída com HTML e CSS, concentrado a visualização e acesso dessas informações.
+
+<p align="center"> <img src ="" width="800"> </p>
 
 ### Resultado Final ✅
-<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif"> </p>
+<p align="center"> <img src =""> </p>
 
 #### Tecnologias Utilizadas
 * CSS3: Estilização do site
