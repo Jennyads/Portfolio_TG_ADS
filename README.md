@@ -83,7 +83,7 @@ Em termos técnicos, foi necessário automatizar o processo de clonagem dos repo
 <p align="center"> <img width=600 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/automatizador.gif"> </p>
 
 #### Aplicação web:
-<p align="center"> <img width=600 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/site.gif"> </p>
+<p align="center"> <img width=670 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/site.gif"> </p>
 
 
 #### Tecnologias Utilizadas
