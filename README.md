@@ -132,15 +132,14 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 
 
 #### Hard Skills
-* HTML e CSS: Desenvolvimento web
-* Python: Raspagem de dados
-* Git: Controle de versionamento
-* Figma e Whimsical: Prototipagem
+* HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada.
+* Python: Aprendi a realizar raspagem de dados, permitindo a coleta e análise de informações de forma eficaz.
+* Git: Melhorou a experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores.
 
 #### Soft Skills
-* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Ouvir e compreender os outros
-* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Compartilhar responsabilidades e contribuir ativamente para objetivos compartilhados
-* Gestão do Tempo: Capacidade de gerenciar tarefas e projetos de forma eficiente, priorizando atividades e cumprindo prazos.
+* Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
+* Trabalho em Equipe: Aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente.
+* Gestão do Tempo: Melhorei a capacidade de gerenciar tarefas e projetos de forma eficiente priorizando prazos.
  
  
 <h3 align="left">📑 	Conhecimentos Técnicos </h3> 
