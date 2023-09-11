@@ -55,6 +55,12 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
  
 </div>
 
+## Domínio Técnico 💻
+<br><br>
+Meu foco principal reside na busca por um domínio técnico sólido em três linguagens de programação essenciais: Golang, Java e TypeScript. Além disso, tenho empenho em aprimorar minhas habilidades no desenvolvimento e implementação de microserviços, bem como no seu eficaz gerenciamento. Nesse contexto, a tecnologia Docker desempenha um papel crucial e busco compreender detalhadamente como ele pode ser empregado para empacotar, distribuir e orquestrar esses microserviços, proporcionando um ambiente de execução consistente e eficiente.
+<br><br>
+Minha jornada envolverá a exploração de melhores práticas, padrões de arquitetura e ferramentas relacionadas a microserviços e Docker, garantindo que eu possa aplicar esse conhecimento em cenários do mundo real. Tenho como objetivo não apenas dominar essas tecnologias individualmente, mas também entender como elas se interconectam para criar soluções robustas e escaláveis em ambientes de desenvolvimento de software contemporâneos.  
+
 ## Principais Conhecimentos 💡
 <img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=golang"/> <img src="https://skillicons.dev/icons?i=dart"/> <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=kubernetes"/> <img src="https://skillicons.dev/icons?i=postman"/> <img src="https://skillicons.dev/icons?i=mysql"/> <img src="https://skillicons.dev/icons?i=idea"/> <img src="https://skillicons.dev/icons?i=flutter"/> <img src="https://skillicons.dev/icons?i=dynamodb"/> <img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=azure"/> <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://skillicons.dev/icons?i=androidstudio"/> <img src="https://skillicons.dev/icons?i=kafka"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=mongodb"/> <img src="https://skillicons.dev/icons?i=nextjs"/> <img src="https://skillicons.dev/icons?i=postgres"/> 
 <br><br>
