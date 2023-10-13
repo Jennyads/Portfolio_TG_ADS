@@ -167,12 +167,11 @@ A solução para o problema que motivou este projeto consistiu em aprimorar a co
 Os requisitos funcionais abrangeram o cadastro de usuários, clientes e grupos, com diferentes perfis, tais como administrador, suporte e cliente. Como resultado, tanto administradores quanto suporte poderiam registrar mensagens em nome de clientes, indicando a origem das mensagens (por exemplo, e-mail, WhatsApp, etc.). Além disso, os requisitos funcionais incluíram a capacidade de enviar mensagens individuais para os usuários do sistema, bem como mensagens coletivas para os grupos no sistema. Também foi importante a inclusão da funcionalidade de geração de relatórios, que permitia identificar quais pessoas ou grupos receberam a maioria das mensagens.
 
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="700"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="800"> </p>
 
 ### Resultado Final ✅
 #### Aplicação:
-<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif"> </p>
-
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif" width="1000"> </p>
 
 #### Tecnologias Utilizadas
 * JAVA DESKTOP: Linguagem
@@ -218,11 +217,11 @@ A solução para o problema que motivou este projeto consistiu em criar uma inte
 <br><br>
 Os requisitos funcionais do projeto incluíram o cadastro de modelos de aeronaves, a criação de diferentes perfis de usuário (como administrador e usuário padrão), o desenvolvimento de uma interface amigável para realizar cálculos de desempenho por meio de dispositivos móveis, como celulares e tablets. Além disso, o projeto contemplou a implementação de um gerador de cálculos para determinar o comprimento mínimo da pista de pouso com base nos fatores considerados, bem como a capacidade de manter um histórico dos cálculos realizados.
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="700"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api3.png" width="800"> </p>
 
 ### Resultado Final ✅
 #### Aplicação:
-<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif"> </p>
+<p align="center"> <img width=900 src =""> </p>
 
 
 #### Tecnologias Utilizadas
