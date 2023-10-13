@@ -161,7 +161,7 @@ A solução para o problema que motivou este projeto consistiu em aprimorar a co
 Os requisitos funcionais abrangeram o cadastro de usuários, clientes e grupos, com diferentes perfis, tais como administrador, suporte e cliente. Como resultado, tanto administradores quanto suporte poderiam registrar mensagens em nome de clientes, indicando a origem das mensagens (por exemplo, e-mail, WhatsApp, etc.). Além disso, os requisitos funcionais incluíram a capacidade de enviar mensagens individuais para os usuários do sistema, bem como mensagens coletivas para os grupos no sistema. Também foi importante a inclusão da funcionalidade de geração de relatórios, que permitia identificar quais pessoas ou grupos receberam a maioria das mensagens.
 
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprints.png" width="800"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="800"> </p>
 
 ### Resultado Final ✅
 #### Automatização de Clonagem via Scrapting:
