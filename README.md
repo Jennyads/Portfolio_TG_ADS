@@ -238,10 +238,12 @@ Durante o projeto, minha principal responsabilidade estava no desenvolvimento do
 <br><br>
 Além da minha atuação no desenvolvimento, também assumi o papel de Scrum Master da equipe. Nessa função, gerenciei os desafios internos, mantive o acompanhamento e atualização do gráfico de burndown e forneci suporte e orientação aos meus colegas. Participei ativamente das reuniões semanais com o professor Cláudio, que atuou como Scrum Master responsável. Além de contribuir para a escrita e organização dos relatórios de cada sprint no GitHub, também realizei a documentação abrangente de todo o sistema agnóstico que desenvolvemos, tornando-o adaptável para a inclusão de novas aeronaves e parâmetros.
 <br><br>
+
 <details>
-<summary>Clique para ver a Documentação para explicação e how-to da solução agnóstica apresentada:</summary>
-<p align="center"> https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Documenta%C3%A7%C3%A3o%20API%20-%203%20SEM.pdf </p>
+  <summary><a href="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Documenta%C3%A7%C3%A3o%20API%20-%203%20SEM.pdf" target="_blank">Clique para ver a Documentação para explicação e how-to da solução agnóstica apresentada</a></summary>
 </details>
+
+
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
