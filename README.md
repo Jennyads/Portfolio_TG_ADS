@@ -140,9 +140,9 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 </details>
 
 #### Hard Skills
-* HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada.
-* Python: Aprendi a realizar raspagem de dados, permitindo a coleta e análise de informações de forma eficaz.
-* Git: Adquiri experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores.
+* HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada. Nível de proficiência: Competente.
+* Python: Aprendi a realizar raspagem de dados, permitindo a coleta e análise de informações de forma eficaz. Nível de proficiência: Sei fazer com ajuda.
+* Git: Adquiri experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores. Nível de proficiência: Competente.
 
 #### Soft Skills
 * Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
@@ -161,63 +161,30 @@ A solução para o problema que motivou este projeto consistiu em aprimorar a co
 Os requisitos funcionais abrangeram o cadastro de usuários, clientes e grupos, com diferentes perfis, tais como administrador, suporte e cliente. Como resultado, tanto administradores quanto suporte poderiam registrar mensagens em nome de clientes, indicando a origem das mensagens (por exemplo, e-mail, WhatsApp, etc.). Além disso, os requisitos funcionais incluíram a capacidade de enviar mensagens individuais para os usuários do sistema, bem como mensagens coletivas para os grupos no sistema. Também foi importante a inclusão da funcionalidade de geração de relatórios, que permitia identificar quais pessoas ou grupos receberam a maioria das mensagens.
 
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="800"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="700"> </p>
 
 ### Resultado Final ✅
-#### Automatização de Clonagem via Scrapting:
-<p align="center"> <img width=600 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/automatizador.gif"> </p>
-
-#### Aplicação web:
-<p align="center"> <img width=670 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/site.gif"> </p>
+#### Aplicação:
+<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif"> </p>
 
 
 #### Tecnologias Utilizadas
-* CSS3: Estilização do site
+* JAVA DESKTOP: Linguagem
+* MySQL: Banco de Dados
 * Git: Versionamento
-* GitHub: Hospedagem de código
-* HTML5: Estruturação das páginas do site
-* Python: Criação do código
+* GitHub: Armazenamento de código
+* NetBeans: Codificação
+* BRModelo: Diagramas
+* Lucid: Editor gráfico
+* Teams: Comunicação
 * Whimsical: Prototipagem
-* VsCode: Ambiente de Desenvolvimento
 
 #### Contribuições Pessoais
-No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem via scrapting. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
-
-<details>
-<summary>Clique para ver o código de automatização de Clonagem via Scrapting: </summary>
-
-```
-import git
-
-def nome_pasta(texto):
-    count = 0
-    texto = texto[19:]
-    for l in texto:
-        if (l == "/"):
-            return texto[:count]
-        count = count + 1
-    return ""
-
-
-with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f:
-    for line in f:
-        print("clonando endereço: ", line)
-        remoteurl= line.rstrip("\n")
-
-        nomePasta = nome_pasta(remoteurl)
-        
-        localfolder=f"C:/Users/thale/Desktop/API/API_1SEM/teste_clonagem/" +nomePasta
-
-        myrepo = git.Repo.clone_from(remoteurl, localfolder, env={"GIT_SSH_COMMAND": 'ssh -i C:/Users/jenny/.ssh/id_rsa'})
-
-        print(f"projeto {nomePasta} clonado com sucesso!")
-```
-</details>
-
-<details>
-<summary>Clique para ver o Manual Técnico e de Operação:</summary>
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/manuais.png" width="800"> </p>
-</details>
+Ao longo do projeto, minha atuação concentrou-se na parte visual, onde fui responsável por criar as interfaces gráficas e auxiliar na definição de padrões de design e estilização. Durante a primeira sprint, meu foco foi o desenvolvimento dos JFrames, e assim criei a tela de cadastro de mensagens. Na segunda sprint, trabalhei na criação das telas de login e de usuário, além de me encarregar de preparar e apresentar as entregas da sprint. Já na última sprint, desempenhei um papel essencial na etapa final de estilização e na organização do repositório do GitHub. Fui responsável por disponibilizar o relatório da sprint e também contribuí para a preparação da apresentação correspondente.
+<br><br>
+Este projeto apresentou desafios significativos. Enfrentei dificuldades, especialmente no início, devido à falta de recursos de pesquisa para o desenvolvimento de interfaces em Java Swing, uma tecnologia que pode ser considerada obsoleta. Adicionalmente, encontrei obstáculos ao tentar fazer contribuições ao repositório do GitHub, o que me levou a compartilhar meu código com meus colegas por outros meios. Infelizmente, essa abordagem afetou a contabilização adequada das minhas contribuições no repositório.
+<br><br>
+Este projeto se destacou como o mais desafiador devido à complexidade da tecnologia exigida e à minha relativa inexperiência e falta de conhecimento. Infelizmente, não pude contribuir e atuar no projeto da maneira que eu gostaria.
 
 #### Hard Skills
 * HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada.
