@@ -104,7 +104,7 @@ Em termos técnicos, foi necessário automatizar o processo de Clonagem via Scra
 No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem via scrapting. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
 
 <details>
-<summary>Clique para ver o código de automatizador de Clonagem via Scrapting: </summary>
+<summary>Clique para ver o código de automatização de Clonagem via Scrapting: </summary>
 
 ```
 import git
@@ -135,7 +135,7 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 </details>
 
 <details>
-<summary>Clique para ver o Manual Técnico e de Operação</summary>
+<summary>Clique para ver o Manual Técnico e de Operação:</summary>
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/manuais.png" width="800"> </p>
 </details>
 
