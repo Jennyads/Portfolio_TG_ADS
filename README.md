@@ -70,7 +70,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 
 ## 🖥️ Projetos 
 <div align="center">
-    <a href="#1sem"> 1° Semestre 2021-1</a>
+    <a href="#1sem"> 1° Semestre 2021-2</a>
 </div>
 
 ### 2021-2 | [GIT](https://github.com/EquipeApolo/API_1SEM)
@@ -149,7 +149,85 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 * Trabalho em Equipe: No projeto, aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais, de tal forma que todos conseguiram se desenvolver em tarefasque tinham mais domínio e aptidão. 
 * Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
  
- 
+<div align="center">
+    <a href="#2sem"> 2° Semestre 2022-1</a>
+</div>
+
+### 2022-1 | [GIT](https://github.com/EquipeApolo/API-2-Semestre)
+
+<span id="2sem">
+A solução para o problema que motivou este projeto consistiu em aprimorar a comunicação da empresa Pro4Tech com seus clientes. Para isso, foi desenvolvido um sistema que permitiu o registro de mensagens provenientes de diversas fontes, como SMS, WhatsApp, e-mail e outras, com o objetivo de centralizar e facilitar o acesso a todas as mensagens. Consequentemente, a ideia evoluiu para permitir o acesso a essas mensagens através de uma aplicação dedicada, no qual clientes, administradores e suporte poderiam também enviar mensagens para destinatários individuais ou para grupos específicos que os englobassem..
+<br><br>
+Os requisitos funcionais abrangeram o cadastro de usuários, clientes e grupos, com diferentes perfis, tais como administrador, suporte e cliente. Como resultado, tanto administradores quanto suporte poderiam registrar mensagens em nome de clientes, indicando a origem das mensagens (por exemplo, e-mail, WhatsApp, etc.). Além disso, os requisitos funcionais incluíram a capacidade de enviar mensagens individuais para os usuários do sistema, bem como mensagens coletivas para os grupos no sistema. Também foi importante a inclusão da funcionalidade de geração de relatórios, que permitia identificar quais pessoas ou grupos receberam a maioria das mensagens.
+
+### Etapas de Desenvolvimento ✅
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprints.png" width="800"> </p>
+
+### Resultado Final ✅
+#### Automatização de Clonagem via Scrapting:
+<p align="center"> <img width=600 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/automatizador.gif"> </p>
+
+#### Aplicação web:
+<p align="center"> <img width=670 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/site.gif"> </p>
+
+
+#### Tecnologias Utilizadas
+* CSS3: Estilização do site
+* Git: Versionamento
+* GitHub: Hospedagem de código
+* HTML5: Estruturação das páginas do site
+* Python: Criação do código
+* Whimsical: Prototipagem
+* VsCode: Ambiente de Desenvolvimento
+
+#### Contribuições Pessoais
+No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem via scrapting. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
+
+<details>
+<summary>Clique para ver o código de automatização de Clonagem via Scrapting: </summary>
+
+```
+import git
+
+def nome_pasta(texto):
+    count = 0
+    texto = texto[19:]
+    for l in texto:
+        if (l == "/"):
+            return texto[:count]
+        count = count + 1
+    return ""
+
+
+with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f:
+    for line in f:
+        print("clonando endereço: ", line)
+        remoteurl= line.rstrip("\n")
+
+        nomePasta = nome_pasta(remoteurl)
+        
+        localfolder=f"C:/Users/thale/Desktop/API/API_1SEM/teste_clonagem/" +nomePasta
+
+        myrepo = git.Repo.clone_from(remoteurl, localfolder, env={"GIT_SSH_COMMAND": 'ssh -i C:/Users/jenny/.ssh/id_rsa'})
+
+        print(f"projeto {nomePasta} clonado com sucesso!")
+```
+</details>
+
+<details>
+<summary>Clique para ver o Manual Técnico e de Operação:</summary>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/manuais.png" width="800"> </p>
+</details>
+
+#### Hard Skills
+* HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada.
+* Python: Aprendi a realizar raspagem de dados, permitindo a coleta e análise de informações de forma eficaz.
+* Git: Adquiri experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores.
+
+#### Soft Skills
+* Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
+* Trabalho em Equipe: No projeto, aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais, de tal forma que todos conseguiram se desenvolver em tarefasque tinham mais domínio e aptidão. 
+* Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
  
 <h3 align="left">✉️ Contatos </h3> 
  <div align="left"> 
