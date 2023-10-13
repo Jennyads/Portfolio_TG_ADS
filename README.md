@@ -140,13 +140,16 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 </details>
 
 #### Hard Skills
-* HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada. Nível de proficiência: Competente.
-* Python: Aprendi a realizar raspagem de dados, permitindo a coleta e análise de informações de forma eficaz. Nível de proficiência: Sei fazer com ajuda.
-* Git: Adquiri experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores. Nível de proficiência: Competente.
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| HTML e CSS | Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada | Competente | 
+| Python | Raspagem de dados | Sei fazer com ajuda | 
+| Git | Adquiri experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores | Sei fazer com ajuda |
+| Figma e Whimsical | Prototipagem | Proficiente |
 
 #### Soft Skills
 * Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
-* Trabalho em Equipe: No projeto, aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais, de tal forma que todos conseguiram se desenvolver em tarefasque tinham mais domínio e aptidão. 
+* Trabalho em Equipe: No projeto, aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais, de tal forma que todos conseguiram se desenvolver em tarefas que tinham mais domínio e aptidão. 
 * Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
  
 <div align="center">
@@ -187,13 +190,18 @@ Este projeto apresentou desafios significativos. Enfrentei dificuldades, especia
 Este projeto se destacou como o mais desafiador devido à complexidade da tecnologia exigida e à minha relativa inexperiência e falta de conhecimento. Infelizmente, não pude contribuir e atuar no projeto da maneira que eu gostaria.
 
 #### Hard Skills
-* HTML e CSS: Desenvolvi habilidade de criar site organizado e funcional para uma experiência do usuário aprimorada.
-* Python: Aprendi a realizar raspagem de dados, permitindo a coleta e análise de informações de forma eficaz.
-* Git: Adquiri experiência em controle de versionamento, possibilitando projetos com atualizações organizadas, permitindo o rastreamento de mudanças e a colaboração eficiente com outros desenvolvedores.
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Java | Linguagem de programação | Sei fazer com ajuda | 
+| Java Swing | Criação de interface gráfica | Sei fazer com ajuda | 
+| MySQL | Banco de Dados | Competente | 
+| Git | Controle de versionamento | Sei fazer com ajuda |
+
 
 #### Soft Skills
-* Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
-* Trabalho em Equipe: No projeto, aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais, de tal forma que todos conseguiram se desenvolver em tarefasque tinham mais domínio e aptidão. 
+* Comunicação: Aprendi a me comunicar sobre minhas falhas, inseguranças e dúvidas em relação ao projeto e dificuldade de conseguir desenvolver minhas telas.
+* Trabalho em Equipe: No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. 
 * Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
  
 <h3 align="left">✉️ Contatos </h3> 
