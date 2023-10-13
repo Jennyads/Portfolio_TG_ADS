@@ -213,7 +213,7 @@ Este projeto se destacou como o mais desafiador devido à complexidade da tecnol
 
 ### 2022-2 | [GIT](https://github.com/EquipeApolo/API_3_Semestre)
 
-<span id="2sem">
+<span id="3sem">
 A solução para o problema que motivou este projeto consistiu em criar uma interface que permitisse aos pilotos de aeronaves calcular a distância necessária para realizar pousos seguros com base em diversos parâmetros.  Para realizar esse cálculo de forma precisa, uma tabela foi disponibilizada que levava em consideração uma série de fatores, incuindo o modelo de aeronave,tipo de motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.
 <br><br>
 Os requisitos funcionais do projeto incluíram o cadastro de modelos de aeronaves, a criação de diferentes perfis de usuário (como administrador e usuário padrão), o desenvolvimento de uma interface amigável para realizar cálculos de desempenho por meio de dispositivos móveis, como celulares e tablets. Além disso, o projeto contemplou a implementação de um gerador de cálculos para determinar o comprimento mínimo da pista de pouso com base nos fatores considerados, bem como a capacidade de manter um histórico dos cálculos realizados.
@@ -226,15 +226,14 @@ Os requisitos funcionais do projeto incluíram o cadastro de modelos de aeronave
 
 
 #### Tecnologias Utilizadas
-* JAVA DESKTOP: Linguagem
-* MySQL: Banco de Dados
+* HTML5 & CSS3: Linguagens de marcação
+* Typescript: Linguagem de programação
 * Git: Versionamento
 * GitHub: Armazenamento de código
-* NetBeans: Codificação
-* BRModelo: Diagramas
-* Lucid: Editor gráfico
 * Teams: Comunicação
 * Whimsical: Prototipagem
+* Node: Runtime
+* React: Framework
 
 #### Contribuições Pessoais
 Ao longo do projeto, minha atuação concentrou-se na parte visual, onde fui responsável por criar as interfaces gráficas e auxiliar na definição de padrões de design e estilização. Durante a primeira sprint, meu foco foi o desenvolvimento dos JFrames, e assim criei a tela de cadastro de mensagens. Na segunda sprint, trabalhei na criação das telas de login e de usuário, além de me encarregar de preparar e apresentar as entregas da sprint. Já na última sprint, desempenhei um papel essencial na etapa final de estilização e na organização do repositório do GitHub. Fui responsável por disponibilizar o relatório da sprint e também contribuí para a preparação da apresentação correspondente.
