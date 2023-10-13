@@ -205,6 +205,57 @@ Este projeto se destacou como o mais desafiador devido à complexidade da tecnol
 #### Soft Skills
 * Comunicação: Aprendi a me comunicar sobre minhas falhas, inseguranças e dúvidas em relação ao projeto e dificuldade de conseguir desenvolver minhas telas.
 * Trabalho em Equipe: No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. 
+* Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite.
+
+<div align="center">
+    <a href="#3sem"> 3° Semestre 2022-2</a>
+</div>
+
+### 2022-2 | [GIT](https://github.com/EquipeApolo/API_3_Semestre)
+
+<span id="2sem">
+A solução para o problema que motivou este projeto consistiu em criar uma interface que permitisse aos pilotos de aeronaves calcular a distância necessária para realizar pousos seguros com base em diversos parâmetros.  Para realizar esse cálculo de forma precisa, uma tabela foi disponibilizada que levava em consideração uma série de fatores, incuindo o modelo de aeronave,tipo de motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.
+<br><br>
+Os requisitos funcionais do projeto incluíram o cadastro de modelos de aeronaves, a criação de diferentes perfis de usuário (como administrador e usuário padrão), o desenvolvimento de uma interface amigável para realizar cálculos de desempenho por meio de dispositivos móveis, como celulares e tablets. Além disso, o projeto contemplou a implementação de um gerador de cálculos para determinar o comprimento mínimo da pista de pouso com base nos fatores considerados, bem como a capacidade de manter um histórico dos cálculos realizados.
+### Etapas de Desenvolvimento ✅
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="700"> </p>
+
+### Resultado Final ✅
+#### Aplicação:
+<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif"> </p>
+
+
+#### Tecnologias Utilizadas
+* JAVA DESKTOP: Linguagem
+* MySQL: Banco de Dados
+* Git: Versionamento
+* GitHub: Armazenamento de código
+* NetBeans: Codificação
+* BRModelo: Diagramas
+* Lucid: Editor gráfico
+* Teams: Comunicação
+* Whimsical: Prototipagem
+
+#### Contribuições Pessoais
+Ao longo do projeto, minha atuação concentrou-se na parte visual, onde fui responsável por criar as interfaces gráficas e auxiliar na definição de padrões de design e estilização. Durante a primeira sprint, meu foco foi o desenvolvimento dos JFrames, e assim criei a tela de cadastro de mensagens. Na segunda sprint, trabalhei na criação das telas de login e de usuário, além de me encarregar de preparar e apresentar as entregas da sprint. Já na última sprint, desempenhei um papel essencial na etapa final de estilização e na organização do repositório do GitHub. Fui responsável por disponibilizar o relatório da sprint e também contribuí para a preparação da apresentação correspondente.
+<br><br>
+Este projeto apresentou desafios significativos. Enfrentei dificuldades, especialmente no início, devido à falta de recursos de pesquisa para o desenvolvimento de interfaces em Java Swing, uma tecnologia que pode ser considerada obsoleta. Adicionalmente, encontrei obstáculos ao tentar fazer contribuições ao repositório do GitHub, o que me levou a compartilhar meu código com meus colegas por outros meios. Infelizmente, essa abordagem afetou a contabilização adequada das minhas contribuições no repositório.
+<br><br>
+Este projeto se destacou como o mais desafiador devido à complexidade da tecnologia exigida e à minha relativa inexperiência e falta de conhecimento. Infelizmente, não pude contribuir e atuar no projeto da maneira que eu gostaria.
+
+#### Hard Skills
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Java | Linguagem de programação | Sei fazer com ajuda | 
+| Java Swing | Criação de interface gráfica | Sei fazer com ajuda | 
+| MySQL | Banco de Dados | Competente | 
+| Git | Controle de versionamento | Sei fazer com ajuda |
+
+
+#### Soft Skills
+* Comunicação: Aprendi a me comunicar sobre minhas falhas, inseguranças e dúvidas em relação ao projeto e dificuldade de conseguir desenvolver minhas telas.
+* Trabalho em Equipe: No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. 
 * Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
  
 <h3 align="left">✉️ Contatos </h3> 
