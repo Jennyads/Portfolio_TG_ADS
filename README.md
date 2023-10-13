@@ -171,7 +171,7 @@ Os requisitos funcionais abrangeram o cadastro de usuários, clientes e grupos, 
 
 ### Resultado Final ✅
 #### Aplicação:
-<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif"> </p>
+https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/video_final_api2.mp4
 
 
 #### Tecnologias Utilizadas
@@ -218,7 +218,7 @@ A solução para o problema que motivou este projeto consistiu em criar uma inte
 <br><br>
 Os requisitos funcionais do projeto incluíram o cadastro de modelos de aeronaves, a criação de diferentes perfis de usuário (como administrador e usuário padrão), o desenvolvimento de uma interface amigável para realizar cálculos de desempenho por meio de dispositivos móveis, como celulares e tablets. Além disso, o projeto contemplou a implementação de um gerador de cálculos para determinar o comprimento mínimo da pista de pouso com base nos fatores considerados, bem como a capacidade de manter um histórico dos cálculos realizados.
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api2.png" width="700"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api3.png" width="700"> </p>
 
 ### Resultado Final ✅
 #### Aplicação:
