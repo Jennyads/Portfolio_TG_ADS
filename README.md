@@ -78,13 +78,13 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 <span id="1sem">
 A solução para o problema que orientou este projeto foi aprimorar a acessibilidade e a segurança da visualização dos Projetos de Aprendizagem por Projeto Integrador da Fatec SJC. Inicialmente, a visualização desses projetos era realizada por meio do site da Fatec, onde ao selecionar uma equipe desejada, apenas o link do YouTube estava disponível, com o GitHub da equipe na descrição do vídeo. No entanto, essa abordagem apresentou insegurança e instabilidade no controle desses projetos, uma vez que a Fatec não possuía controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza em relação à disponibilidade e à proteção contínua dos projetos no GitHub. Dessa forma, o projeto buscou solucionar essas preocupações, garantindo maior confiabilidade, controle e preservação dos recursos acadêmicos e de aprendizado que passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web dirigida pela rede administrativa da FATEC.
 <br><br>
-Em termos técnicos, foi necessário automatizar o processo de clonagem (scraping) dos repositórios existentes no Github, assim criou-se um script em python para tal efeito. Após finalizar a etapa de raspagem, todos os repositórios clonados de forma automatizada foram exibidos em uma página web construída com HTML e CSS, concentrado a visualização e acesso dessas informações.
+Em termos técnicos, foi necessário automatizar o processo de Clonagem via Scrapting dos repositórios existentes no Github, assim criou-se um script em python para tal efeito. Após finalizar a etapa de raspagem, todos os repositórios clonados de forma automatizada foram exibidos em uma página web construída com HTML e CSS, concentrado a visualização e acesso dessas informações.
 
 ### Etapas de Desenvolvimento ✅
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprints.png" width="800"> </p>
 
 ### Resultado Final ✅
-#### Automatização:
+#### Automatização de Clonagem via Scrapting:
 <p align="center"> <img width=600 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/automatizador.gif"> </p>
 
 #### Aplicação web:
@@ -101,7 +101,7 @@ Em termos técnicos, foi necessário automatizar o processo de clonagem (scrapin
 * VsCode: Ambiente de Desenvolvimento
 
 #### Contribuições Pessoais
-No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
+No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem via scrapting. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
 
 ##### Código Automatizador de Clonagem:
 
@@ -143,8 +143,8 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 
 #### Soft Skills
 * Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
-* Trabalho em Equipe: Aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente.
-* Gestão do Tempo: Melhorei a capacidade de gerenciar tarefas e projetos de forma eficiente priorizando prazos.
+* Trabalho em Equipe: No projeto, aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais, de tal forma que todos conseguiram se desenvolver em tarefasque tinham mais domínio e aptidão. 
+* Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
  
  
  
