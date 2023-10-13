@@ -192,7 +192,6 @@ Este projeto apresentou desafios significativos. Enfrentei dificuldades, especia
 Este projeto se destacou como o mais desafiador devido à complexidade da tecnologia exigida e à minha relativa inexperiência e falta de conhecimento. Infelizmente, não pude contribuir e atuar no projeto da maneira que eu gostaria.
 
 #### Hard Skills
-#### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
 |:---------:|:---------:|:---------:|
 | Java | Linguagem de programação | Sei fazer com ajuda | 
@@ -221,7 +220,7 @@ Os requisitos funcionais do projeto incluíram o cadastro de modelos de aeronave
 
 ### Resultado Final ✅
 #### Aplicação:
-<p align="center"> <img width=900 src =""> </p>
+<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprint_4_api3.gif"> </p>
 
 
 #### Tecnologias Utilizadas
@@ -235,26 +234,24 @@ Os requisitos funcionais do projeto incluíram o cadastro de modelos de aeronave
 * React: Framework
 
 #### Contribuições Pessoais
-Ao longo do projeto, minha atuação concentrou-se na parte visual, onde fui responsável por criar as interfaces gráficas e auxiliar na definição de padrões de design e estilização. Durante a primeira sprint, meu foco foi o desenvolvimento dos JFrames, e assim criei a tela de cadastro de mensagens. Na segunda sprint, trabalhei na criação das telas de login e de usuário, além de me encarregar de preparar e apresentar as entregas da sprint. Já na última sprint, desempenhei um papel essencial na etapa final de estilização e na organização do repositório do GitHub. Fui responsável por disponibilizar o relatório da sprint e também contribuí para a preparação da apresentação correspondente.
+Durante o projeto, minha principal responsabilidade estava no desenvolvimento do backend, onde me encarreguei de implementar a lógica dos cálculos com base nas tabelas fornecidas. Para cada tipo de parâmetro nas colunas das tabelas, criei arquivos separados contendo os dados correspondentes. Inicialmente, esses valores foram inseridos como informações fixas em cada arquivo, possibilitando o cálculo com base no preenchimento dos parâmetros. À medida que progredimos, e com a introdução de uma página de cadastro de aeronaves, o sistema foi projetado de forma mais genérica e agnóstica, o que permitiu a inclusão desses dados fixos da tabela junto com o cadastro das aeronaves.
 <br><br>
-Este projeto apresentou desafios significativos. Enfrentei dificuldades, especialmente no início, devido à falta de recursos de pesquisa para o desenvolvimento de interfaces em Java Swing, uma tecnologia que pode ser considerada obsoleta. Adicionalmente, encontrei obstáculos ao tentar fazer contribuições ao repositório do GitHub, o que me levou a compartilhar meu código com meus colegas por outros meios. Infelizmente, essa abordagem afetou a contabilização adequada das minhas contribuições no repositório.
+Além da minha atuação no desenvolvimento, também assumi o papel de Scrum Master da equipe. Nessa função, gerenciei os desafios internos, mantive o acompanhamento e atualização do gráfico de burndown e forneci suporte e orientação aos meus colegas. Participei ativamente das reuniões semanais com o professor Cláudio, que atuou como Scrum Master responsável. Além de contribuir para a escrita e organização dos relatórios de cada sprint no GitHub, também realizei a documentação abrangente de todo o sistema agnóstico que desenvolvemos, tornando-o adaptável para a inclusão de novas aeronaves e parâmetros.
 <br><br>
-Este projeto se destacou como o mais desafiador devido à complexidade da tecnologia exigida e à minha relativa inexperiência e falta de conhecimento. Infelizmente, não pude contribuir e atuar no projeto da maneira que eu gostaria.
 
-#### Hard Skills
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
 |:---------:|:---------:|:---------:|
-| Java | Linguagem de programação | Sei fazer com ajuda | 
-| Java Swing | Criação de interface gráfica | Sei fazer com ajuda | 
+| Typescript | Linguagem de programação | Competente | 
+| React | Criação de interface gráfica | Sei fazer com ajuda | 
 | MySQL | Banco de Dados | Competente | 
-| Git | Controle de versionamento | Sei fazer com ajuda |
+| Git | Controle de versionamento | Competente |
 
 
 #### Soft Skills
-* Comunicação: Aprendi a me comunicar sobre minhas falhas, inseguranças e dúvidas em relação ao projeto e dificuldade de conseguir desenvolver minhas telas.
-* Trabalho em Equipe: No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. 
-* Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
+* Comunicação: Demonstrar habilidades de escuta ativa e compreensão ao colaborar com os outros membros da equipe, ser capaz de detalhar e compreender profundamente as tarefas, facilitando uma descrição precisa no gráfico de burndown, resolver conflitos de forma construtiva por meio de diálogos respeitosos e eficazes.
+* Trabalho em Equipe: Organizar reuniões diárias de scrum para revisar o progresso do projeto e garantir a entrega de tarefas dentro dos prazos estabelecidos, promover uma comunicação eficaz entre os membros da equipe durante as reuniões diárias de scrum, garantindo que todos estejam alinhados.
+* Gestão do Tempo: Demonstrar a capacidade de gerenciar tarefas e projetos de forma eficiente, garantindo que os prazos sejam cumpridos, utilizar o gráfico de burndown para monitorar o progresso das tarefas e manter um controle rigoroso dos prazos estipulados para o projeto.
  
 <h3 align="left">✉️ Contatos </h3> 
  <div align="left"> 
