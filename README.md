@@ -70,7 +70,10 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 
 ## 🖥️ Projetos 
 <div align="center">
-    <a href="#1sem"> 1° Semestre 2021-2</a>
+    <a href="#1sem"> 1° Semestre 2021-2</a> | 
+    <a href="#2sem"> 2° Semestre 2022-1</a> |
+    <a href="#3sem"> 3° Semestre 2022-2</a> |
+    <a href="#4sem"> 4° Semestre 2023-1</a> 
 </div>
 
 ### 2021-2 | [GIT](https://github.com/EquipeApolo/API_1SEM)
