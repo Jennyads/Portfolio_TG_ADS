@@ -271,12 +271,7 @@ Os requisitos funcionais desse projeto incluíram a criação de grupos de usuá
 
 ### Resultado Final ✅
 #### Aplicação:
-<source src="Imagens/video_final_api4.mp4" type="video/mp4">
-
-
-https://github.com/peonia-api/API_4_Semestre/assets/86115352/90962519-6285-4790-8d80-379a15f303a5
-https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-bd0f-d16a869c4a41
-
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-bb6a-ac128995f2eb
 
 #### Tecnologias Utilizadas
 * HTML5 & CSS3: Linguagens de marcação
