@@ -271,7 +271,9 @@ Os requisitos funcionais desse projeto incluíram a criação de grupos de usuá
 
 ### Resultado Final ✅
 #### Aplicação:
-<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprint_4_api3.gif"> </p>
+
+https://github.com/peonia-api/API_4_Semestre/assets/86115352/90962519-6285-4790-8d80-379a15f303a5
+https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-bd0f-d16a869c4a41
 
 
 #### Tecnologias Utilizadas
