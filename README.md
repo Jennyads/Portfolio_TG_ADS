@@ -267,10 +267,11 @@ A resolução do problema que motivou a concepção deste projeto envolveu a cri
 Os requisitos funcionais desse projeto incluíram a criação de grupos de usuários, definição de permissões por grupo e usuário, classificação de usuários por equipes, designação de filas de chamados para cada equipe, personalização e configuração de formulários de chamados, estabelecimento de um sistema de decisões para o escalonamento de chamados, cadastro de soluções para problemas conhecidos e a implementação de um formulário de abertura de chamados com a indicação de interessados.
  
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api3.png" width="800"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api4.png" width="800"> </p>
 
 ### Resultado Final ✅
 #### Aplicação:
+https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/video_final_api4.mp4
 
 https://github.com/peonia-api/API_4_Semestre/assets/86115352/90962519-6285-4790-8d80-379a15f303a5
 https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-bd0f-d16a869c4a41
