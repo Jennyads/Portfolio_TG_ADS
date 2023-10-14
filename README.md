@@ -171,7 +171,7 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 
 ### Resultado Final ✅
 #### Aplicação:
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif" width="1200"> </p>
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/edfd3bd0-a7a4-455f-a324-39507a755db3
 
 #### Tecnologias Utilizadas
 * JAVA DESKTOP: Linguagem
