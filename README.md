@@ -290,16 +290,16 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
 * Google Cloud Platform: Deployment
 
 #### Contribuições Pessoais
-  Durante o projeto, minha principal responsabilidade concentrou-se no desenvolvimento do backend, onde assumi a responsabilidade pela implementação de métodos de criação, listagem, atualização e exclusão de entidades relacionadas a chamados, grupos e usuários. Para assegurar o correto funcionamento desses métodos, estabeleci uma conexão eficiente com o banco de dados MySQL, criando as tabelas correspondentes e garantindo a integridade dos dados. 
+  Durante o projeto, minha principal responsabilidade concentrou-se no desenvolvimento do backend, onde assumi a responsabilidade pela implementação de métodos de criação, listagem, atualização e exclusão de entidades relacionadas a chamados, grupos e usuários. Para assegurar o correto funcionamento desses métodos, estabeleci uma conexão eficiente com o banco de dados, criando as tabelas correspondentes e garantindo a integridade dos dados. 
   Em seguida, submeti todos esses métodos e rotas a testes utilizando a plataforma Postman, garantindo o total funcionamento e evidênciando falhas que foram corrigidas. Além disso, criei novos métodos e rotas destinados ao arquivamento de chamados, ao mesmo tempo em que desempenhei um papel na criação da interface de arquivamento no frontend e na sua subsequente integração  com o backend.
 <br><br>
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
 |:---------:|:---------:|:---------:|
-| Typescript | Linguagem de programação | Proficiente | 
+| Typescript | Linguagem de programação | Competente | 
 | React | Criação de interface gráfica | Competente | 
-| MySQL | Banco de Dados | Proficiente | 
+| PostgreSQL  | Banco de Dados | Proficiente | 
 | Git | Controle de versionamento | Proficiente |
 
 #### Soft Skills
