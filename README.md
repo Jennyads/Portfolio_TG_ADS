@@ -171,7 +171,7 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 
 ### Resultado Final ✅
 #### Aplicação:
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif" width="1000"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/Gif-Sprint3.gif" width="1200"> </p>
 
 #### Tecnologias Utilizadas
 * JAVA DESKTOP: Linguagem
@@ -244,7 +244,6 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 </details>
 
 
-
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
 |:---------:|:---------:|:---------:|
@@ -291,6 +290,7 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
 
 #### Contribuições Pessoais
   Durante o projeto, minha principal responsabilidade concentrou-se no desenvolvimento do backend, onde assumi a responsabilidade pela implementação de métodos de criação, listagem, atualização e exclusão de entidades relacionadas a chamados, grupos e usuários. Para assegurar o correto funcionamento desses métodos, estabeleci uma conexão eficiente com o banco de dados, criando as tabelas correspondentes e garantindo a integridade dos dados. 
+<br><br>
   Em seguida, submeti todos esses métodos e rotas a testes utilizando a plataforma Postman, garantindo o total funcionamento e evidênciando falhas que foram corrigidas. Além disso, criei novos métodos e rotas destinados ao arquivamento de chamados, ao mesmo tempo em que desempenhei um papel na criação da interface de arquivamento no frontend e na sua subsequente integração  com o backend.
 <br><br>
 
