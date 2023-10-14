@@ -258,6 +258,56 @@ Além da minha atuação no desenvolvimento, também assumi o papel de Scrum Mas
 * Comunicação: Demonstrar habilidades de escuta ativa e compreensão ao colaborar com os outros membros da equipe, ser capaz de detalhar e compreender profundamente as tarefas, facilitando uma descrição precisa no gráfico de burndown, resolver conflitos de forma construtiva por meio de diálogos respeitosos e eficazes.
 * Trabalho em Equipe: Organizar reuniões diárias de scrum para revisar o progresso do projeto e garantir a entrega de tarefas dentro dos prazos estabelecidos, promover uma comunicação eficaz entre os membros da equipe durante as reuniões diárias de scrum, garantindo que todos estejam alinhados.
 * Gestão do Tempo: Demonstrar a capacidade de gerenciar tarefas e projetos de forma eficiente, garantindo que os prazos sejam cumpridos, utilizar o gráfico de burndown para monitorar o progresso das tarefas e manter um controle rigoroso dos prazos estipulados para o projeto.
+
+### 2023-1 | [GIT](https://github.com/peonia-api/API_4_Semestre)
+
+<span id="4sem">
+A resolução do problema que motivou a concepção deste projeto envolveu a criação de uma plataforma de gestão de solicitações internas para a Ionic Health. Essa plataforma foi projetada para atender às demandas de correções críticas (hotfix) e implementação de novas funcionalidades (feature), encaminhando-as às equipes apropriadas. Além disso, ela possibilitou a aprovação de novas funcionalidades por meio de um comitê de avaliação. Com a implementação dessa plataforma, a empresa conseguiu aprimorar a comunicação interna, a colaboração entre as equipes e a capacidade de monitorar o desempenho do processo de desenvolvimento de produtos.
+<br><br>
+Os requisitos funcionais desse projeto incluíram a criação de grupos de usuários, definição de permissões por grupo e usuário, classificação de usuários por equipes, designação de filas de chamados para cada equipe, personalização e configuração de formulários de chamados, estabelecimento de um sistema de decisões para o escalonamento de chamados, cadastro de soluções para problemas conhecidos e a implementação de um formulário de abertura de chamados com a indicação de interessados.
+ 
+### Etapas de Desenvolvimento ✅
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api3.png" width="800"> </p>
+
+### Resultado Final ✅
+#### Aplicação:
+<p align="center"> <img width=900 src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprint_4_api3.gif"> </p>
+
+
+#### Tecnologias Utilizadas
+* HTML5 & CSS3: Linguagens de marcação
+* TypeScript: Linguagem de programação
+* Git: Versionamento
+* GitHub: Armazenamento de código
+* Teams: Comunicação
+* Figma: Prototipagem
+* NodeJS: Runtime
+* ReactJS: Framework
+* TypeORM: Framework
+* DevOps: Planejamento
+* PostgreSQL: Banco de dados
+* EmailJS: Observer e redefinição de senha
+* Nodemailer: Observer e redefinição de senha
+* Google Cloud Platform: Deployment
+
+#### Contribuições Pessoais
+Durante o projeto, minha principal responsabilidade concentrou-se no desenvolvimento do backend, onde assumi a responsabilidade pela implementação de métodos de criação, listagem, atualização e exclusão de entidades relacionadas a chamados, grupos e usuários. Para assegurar o correto funcionamento desses métodos, estabeleci uma conexão eficiente com o banco de dados MySQL, criando as tabelas correspondentes e garantindo a integridade dos dados. Em seguida, submeti todos esses métodos e rotas a testes utilizando a plataforma Postman, garantindo o total funcionamento e evidênciando falhas que foram corrigidas. 
+<br><br>
+Além disso, criei novos métodos e rotas destinados ao arquivamento de chamados, ao mesmo tempo em que desempenhei um papel na criação da interface de arquivamento no frontend e na sua subsequente integração  com o backend.
+<br><br>
+
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Typescript | Linguagem de programação | Proficiente | 
+| React | Criação de interface gráfica | Competente | 
+| MySQL | Banco de Dados | Proficiente | 
+| Git | Controle de versionamento | Proficiente |
+
+#### Soft Skills
+* Comunicação: Demonstrar habilidades de escuta ativa e compreensão ao colaborar com os outros membros da equipe, ser capaz de detalhar e compreender profundamente as tarefas, facilitando uma descrição precisa no gráfico de burndown, resolver conflitos de forma construtiva por meio de diálogos respeitosos e eficazes.
+* Trabalho em Equipe: Organizar reuniões diárias de scrum para revisar o progresso do projeto e garantir a entrega de tarefas dentro dos prazos estabelecidos, promover uma comunicação eficaz entre os membros da equipe durante as reuniões diárias de scrum, garantindo que todos estejam alinhados.
+* Gestão do Tempo: Demonstrar a capacidade de gerenciar tarefas e projetos de forma eficiente, garantindo que os prazos sejam cumpridos, utilizar o gráfico de burndown para monitorar o progresso das tarefas e manter um controle rigoroso dos prazos estipulados para o projeto.
  
 <h3 align="left">✉️ Contatos </h3> 
  <div align="left"> 
