@@ -81,7 +81,7 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
 <span id="1sem">
   A solução para o problema que orientou este projeto foi aprimorar a acessibilidade e a segurança da visualização dos Projetos de Aprendizagem por Projeto Integrador da Fatec SJC. Inicialmente, a visualização desses projetos era realizada por meio do site da Fatec, onde ao selecionar uma equipe desejada, apenas o link do YouTube estava disponível, com o GitHub da equipe na descrição do vídeo. No entanto, essa abordagem apresentou insegurança e instabilidade no controle desses projetos, uma vez que a Fatec não possuía controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza em relação à disponibilidade e à proteção contínua dos projetos no GitHub. Dessa forma, o projeto buscou solucionar essas preocupações, garantindo maior confiabilidade, controle e preservação dos recursos acadêmicos e de aprendizado que passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web dirigida pela rede administrativa da FATEC.
 <br><br>
-  Em termos técnicos, foi necessário automatizar o processo de Clonagem via Scrapting dos repositórios existentes no Github, assim criou-se um script em python para tal efeito. Após finalizar a etapa de raspagem, todos os repositórios clonados de forma automatizada foram exibidos em uma página web construída com HTML e CSS, concentrado a visualização e acesso dessas informações.
+  Em termos técnicos, foi necessário automatizar o processo de Clonagem via Scraping dos repositórios existentes no Github, assim criou-se um script em python para tal efeito. Após finalizar a etapa de raspagem, todos os repositórios clonados de forma automatizada foram exibidos em uma página web construída com HTML e CSS, concentrado a visualização e acesso dessas informações.
 
 ### Etapas de Desenvolvimento ✅
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprints.png" width="800"> </p>
@@ -104,10 +104,10 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
 * VsCode: Ambiente de Desenvolvimento
 
 #### Contribuições Pessoais
-  No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem via scrapting. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
+  No decorrer do projeto, atuei nas task de back-end com foco no processo de clonagem via Scraping. Na primeira sprint realizei clonagens manuais para garantir o domínio sobre os projetos. Na segunda sprint atuei no processo de criação do código de automatização de clonagem e raspagem das URLs. Por fim, criei a documentação para deixar disponibilizado um manual de operações para facilitar a experiência de uso, que indica como o usuário deve navegar pela página web. Além disso, desenvolvi um manual técnico que auxilia no processo de raspagem das URLs e clonagem dos links.
 
 <details>
-<summary>Clique para ver o código de automatização de Clonagem via Scrapting: </summary>
+<summary>Clique para ver o código de automatização de Clonagem via Scraping: </summary>
 
 ```
 import git
