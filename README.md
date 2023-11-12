@@ -305,18 +305,6 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
 * Trabalho em Equipe e Colaboração: Minha contribuição envolveu a integração do frontend com o backend, assim tive que estabelecer uma colaboração eficaz com outros membros da equipe para me auxiliar nessa tarefa. 
 * Gerenciamento de Tempo e Priorização: Realizei uma variedade de tarefas, desde o desenvolvimento do backend até os testes e a criação da interface no frontend, assim tive que gerenciar meu tempo e priorizar tarefas de forma eficaz. Adquiri a capacidade de equilibrar várias responsabilidades e cumprir prazos.
  
-<h3 align="left">✉️ Contatos </h3> 
- <div align="left"> 
-  <a href = "mailto:jennycristina.1998@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-cristina-65787b205/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
-  </a>
-  <a href="https://instagram.com/jennycristinafp" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
-   </a> 
-</div>  
 
 ### 2023-2 | [GIT](https://github.com/peonia-api/API_5_Semestre)
 
