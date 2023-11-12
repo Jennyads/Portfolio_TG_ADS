@@ -323,9 +323,9 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
 <span id="5sem">
 
 A Imagem Geosistemas, reconhecida como a distribuidora oficial da excepcional plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela renomada empresa americana Esri, apresentou um desafio crucial no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
-
+<br><br>
 Diante dessa demanda específica, surgiu a necessidade de desenvolver uma aplicação móvel que possibilitou o gerenciamento eficiente, tanto online quanto offline, dos dados relacionados aos equipamentos (ativos) da empresa. Este desafio se tornou particularmente evidente em situações críticas, como processos de manobras, nos quais a manutenção de equipamentos em campo poderia impactar a rede de serviços, causando efeitos nos clientes conectados.
-
+<br><br>
 Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a existência de um aplicativo mobile abrangente. Esse aplicativo não apenas gerencia os equipamentos públicos em campo (Ativos) para a Imagem Geosistemas, mas também oferece funcionalidades essenciais, como consultas, atualizações, desativações e cadastros de equipamentos. Além disso, é capaz de estabelecer conexões com sensores, comunicar-se com serviços externos e visualizar os equipamentos em tempo real nos mapas, considerando a posição geográfica do usuário em um raio de 10 km. Esta abordagem visou não apenas resolver os desafios operacionais enfrentados pela empresa, mas também aprimorar significativamente a qualidade dos serviços oferecidos aos usuários.
 
  
@@ -357,10 +357,13 @@ Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a 
 - [PostgresSQL](https://www.postgresql.org/docs/): Banco de dados SQL
 
 #### Contribuições Pessoais
-  Durante o projeto, minha principal responsabilidade concentrou-se no desenvolvimento do backend, onde assumi a responsabilidade pela implementação de métodos de criação, listagem, atualização e exclusão de entidades relacionadas a chamados, grupos e usuários. Para assegurar o correto funcionamento desses métodos, estabeleci uma conexão eficiente com o banco de dados, criando as tabelas correspondentes e garantindo a integridade dos dados. 
+Inicialmente, minha principal responsabilidade envolveu a construção das entidades e seus respectivos relacionamentos no banco de dados. Para otimizar esse processo, fiz uso do TypeORM, uma ferramenta que simplificou a gestão e a estruturação do banco de dados.
 <br><br>
-  Em seguida, submeti todos esses métodos e rotas a testes utilizando a plataforma Postman, garantindo o total funcionamento e evidênciando falhas que foram corrigidas. Além disso, criei novos métodos e rotas destinados ao arquivamento de chamados, ao mesmo tempo em que desempenhei um papel na criação da interface de arquivamento no frontend e na sua subsequente integração  com o backend.
+No âmbito do frontend, contribuí de maneira significativa no desenvolvimento da tela de cadastro de ativos, garantindo uma experiência intuitiva e eficiente para os usuários finais. Na segunda sprint, concentrei meus esforços no desenvolvimento da tela de login, implementando-a e integrando-a de maneira eficaz com o servidor.
 <br><br>
+A terceira sprint apresentou desafios mais complexos, pois lidou com uma demanda mais elevada. Nesse estágio, fui encarregada do desenvolvimento da tela de aprovação de novos cadastros no nível de administrador. Isso implicou a criação de uma lógica intricada, onde diferentes status (ativo, pendente ou desativado) demandavam ações específicas do administrador. Realizei a integração com o servidor e implementei a coluna de status, utilizando enum na tabela de usuários já existente no banco de dados.
+<br><br>
+Na última sprint, minha responsabilidade foi a implementação do elemento de atualização para o GPS. Esse recurso visa proporcionar aos usuários uma forma rápida e fácil de atualizar suas posições no mapa, especialmente considerando a natureza dinâmica dos trabalhos de campo, onde o deslocamento constante é uma realidade. Essa adição visa melhorar a usabilidade e a precisão da aplicação em situações práticas.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
@@ -371,10 +374,14 @@ Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a 
 | Git | Controle de versionamento | Proficiente |
 
 #### Soft Skills
-* Habilidade de Resolução de Problemas: Desenvolver o backend e garantir que os métodos funcionem corretamente, além de testá-los e corrigir falhas, necessitou de uma habilidade significativa de resolução de problemas. Assim, tive que identificar e abordar questões técnicas e funcionais, demonstrando a capacidade de analisar problemas complexos e encontrar soluções eficazes.
-* Trabalho em Equipe e Colaboração: Minha contribuição envolveu a integração do frontend com o backend, assim tive que estabelecer uma colaboração eficaz com outros membros da equipe para me auxiliar nessa tarefa. 
-* Gerenciamento de Tempo e Priorização: Realizei uma variedade de tarefas, desde o desenvolvimento do backend até os testes e a criação da interface no frontend, assim tive que gerenciar meu tempo e priorizar tarefas de forma eficaz. Adquiri a capacidade de equilibrar várias responsabilidades e cumprir prazos.
- 
+* Adaptabilidade e Resolução de Problemas:  Desde a construção do banco de dados até a implementação de funcionalidades mais complexas, minha capacidade de se adaptar a diferentes demandas e resolver problemas emergentes foi fundamental, assim desenvolvi habilidades ao lidar com desafios variados durante as diferentes sprints do projeto.
+* 
+*Colaboração Efetiva: Trabalhei de forma colaborativa nas frentes de backend e frontend, garantindo uma integração coesa entre as partes. Isso envolveu a comunicação eficaz com a equipe para garantir que todas as funcionalidades estivessem alinhadas e atendessem às expectativas.
+
+*Pensamento Analítico e Resolução de Desafios Técnicos: A implementação de funcionalidades como a tela de aprovação de novos cadastros e a integração eficiente com o servidor demandou um pensamento analítico aguçado e a habilidade de superar desafios técnicos.
+
+*Inovação e Melhoria Contínua: Introduzi melhorias visuais e funcionais durante o processo, como a adição do botão de atualização para o GPS, demonstrando uma mentalidade inovadora e o compromisso com a melhoria contínua do produto.
+
 <h3 align="left">✉️ Contatos </h3> 
  <div align="left"> 
   <a href = "mailto:jennycristina.1998@gmail.com">
