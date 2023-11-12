@@ -151,9 +151,7 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 | Figma e Whimsical | Prototipagem | Proficiente |
 
 #### Soft Skills
-* Comunicação: Aprimorei a capacidade de expressar minhas ideias de maneira clara e eficaz, tanto oralmente quanto por escrito por meio dos manuais desenvolvidos.
-* Trabalho em Equipe: No projeto, aprendi a trabalhar de forma harmoniosa e produtiva com colegas de equipe com compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, criando um ambiente de trabalho positivo e eficiente. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais, de tal forma que todos conseguiram se desenvolver em tarefas que tinham mais domínio e aptidão. 
-* Gestão do Tempo: No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. 
+* Gestão do Tempo: Para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite pois melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos. 
  
 <div align="center">
     <a href="#2sem"> 2° Semestre 2022-1</a>
@@ -254,7 +252,7 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/edfd3bd0-a7a4-455f-
 
 
 #### Soft Skills
-* Comunicação: Demonstrar habilidades de escuta ativa e compreensão ao colaborar com os outros membros da equipe, ser capaz de detalhar e compreender profundamente as tarefas, facilitando uma descrição precisa no gráfico de burndown, resolver conflitos de forma construtiva por meio de diálogos respeitosos e eficazes.
+* Comunicação: Buscandp realizar uma descrição precisa no gráfico de burndown foi necessário desenvolver habilidades de escuta ativa e compreensão ao colaborar com os outros membros da equipe, ser capaz de detalhar e compreender profundamente as tarefas,.
 * Trabalho em Equipe: Organizar reuniões diárias de scrum para revisar o progresso do projeto e garantir a entrega de tarefas dentro dos prazos estabelecidos, promover uma comunicação eficaz entre os membros da equipe durante as reuniões diárias de scrum, garantindo que todos estejam alinhados.
 * Gestão do Tempo: Demonstrar a capacidade de gerenciar tarefas e projetos de forma eficiente, garantindo que os prazos sejam cumpridos, utilizar o gráfico de burndown para monitorar o progresso das tarefas e manter um controle rigoroso dos prazos estipulados para o projeto.
 
@@ -264,6 +262,70 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/edfd3bd0-a7a4-455f-
   A resolução do problema que motivou a concepção deste projeto envolveu a criação de uma plataforma de gestão de solicitações internas para a Ionic Health. Essa plataforma foi projetada para atender às demandas de correções críticas (hotfix) e implementação de novas funcionalidades (feature), encaminhando-as às equipes apropriadas. Além disso, ela possibilitou a aprovação de novas funcionalidades por meio de um comitê de avaliação. Com a implementação dessa plataforma, a empresa conseguiu aprimorar a comunicação interna, a colaboração entre as equipes e a capacidade de monitorar o desempenho do processo de desenvolvimento de produtos.
 <br><br>
   Os requisitos funcionais desse projeto incluíram a criação de grupos de usuários, definição de permissões por grupo e usuário, classificação de usuários por equipes, designação de filas de chamados para cada equipe, personalização e configuração de formulários de chamados, estabelecimento de um sistema de decisões para o escalonamento de chamados, cadastro de soluções para problemas conhecidos e a implementação de um formulário de abertura de chamados com a indicação de interessados.
+ 
+### Etapas de Desenvolvimento ✅
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api4.png" width="800"> </p>
+
+### Resultado Final ✅
+#### Aplicação:
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-bb6a-ac128995f2eb
+
+#### Tecnologias Utilizadas
+* HTML5 & CSS3: Linguagens de marcação
+* TypeScript: Linguagem de programação
+* Git: Versionamento
+* GitHub: Armazenamento de código
+* Teams: Comunicação
+* Figma: Prototipagem
+* NodeJS: Runtime
+* ReactJS: Framework
+* TypeORM: Framework
+* DevOps: Planejamento
+* PostgreSQL: Banco de dados
+* EmailJS: Observer e redefinição de senha
+* Nodemailer: Observer e redefinição de senha
+* Google Cloud Platform: Deployment
+
+#### Contribuições Pessoais
+  Durante o projeto, minha principal responsabilidade concentrou-se no desenvolvimento do backend, onde assumi a responsabilidade pela implementação de métodos de criação, listagem, atualização e exclusão de entidades relacionadas a chamados, grupos e usuários. Para assegurar o correto funcionamento desses métodos, estabeleci uma conexão eficiente com o banco de dados, criando as tabelas correspondentes e garantindo a integridade dos dados. 
+<br><br>
+  Em seguida, submeti todos esses métodos e rotas a testes utilizando a plataforma Postman, garantindo o total funcionamento e evidênciando falhas que foram corrigidas. Além disso, criei novos métodos e rotas destinados ao arquivamento de chamados, ao mesmo tempo em que desempenhei um papel na criação da interface de arquivamento no frontend e na sua subsequente integração  com o backend.
+<br><br>
+
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Typescript | Linguagem de programação | Competente | 
+| React | Criação de interface gráfica | Competente | 
+| PostgreSQL  | Banco de Dados | Proficiente | 
+| Git | Controle de versionamento | Proficiente |
+
+#### Soft Skills
+* Habilidade de Resolução de Problemas: Desenvolver o backend e garantir que os métodos funcionem corretamente, além de testá-los e corrigir falhas, necessitou de uma habilidade significativa de resolução de problemas. Assim, tive que identificar e abordar questões técnicas e funcionais, demonstrando a capacidade de analisar problemas complexos e encontrar soluções eficazes.
+* Trabalho em Equipe e Colaboração: Minha contribuição envolveu a integração do frontend com o backend, assim tive que estabelecer uma colaboração eficaz com outros membros da equipe para me auxiliar nessa tarefa. 
+* Gerenciamento de Tempo e Priorização: Realizei uma variedade de tarefas, desde o desenvolvimento do backend até os testes e a criação da interface no frontend, assim tive que gerenciar meu tempo e priorizar tarefas de forma eficaz. Adquiri a capacidade de equilibrar várias responsabilidades e cumprir prazos.
+ 
+<h3 align="left">✉️ Contatos </h3> 
+ <div align="left"> 
+  <a href = "mailto:jennycristina.1998@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jeniffer-cristina-65787b205/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+  </a>
+  <a href="https://instagram.com/jennycristinafp" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
+   </a> 
+</div>  
+
+<span id="5sem">
+
+A Imagem Geosistemas, reconhecida como a distribuidora oficial da excepcional plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela renomada empresa americana Esri, apresentou um desafio crucial no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
+
+Diante dessa demanda específica, surgiu a necessidade de desenvolver uma aplicação móvel que possibilitou o gerenciamento eficiente, tanto online quanto offline, dos dados relacionados aos equipamentos (ativos) da empresa. Este desafio se tornou particularmente evidente em situações críticas, como processos de manobras, nos quais a manutenção de equipamentos em campo poderia impactar a rede de serviços, causando efeitos nos clientes conectados.
+
+Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a existência de um aplicativo mobile abrangente. Esse aplicativo não apenas gerencia os equipamentos públicos em campo (Ativos) para a Imagem Geosistemas, mas também oferece funcionalidades essenciais, como consultas, atualizações, desativações e cadastros de equipamentos. Além disso, é capaz de estabelecer conexões com sensores, comunicar-se com serviços externos e visualizar os equipamentos em tempo real nos mapas, considerando a posição geográfica do usuário em um raio de 10 km. Esta abordagem visou não apenas resolver os desafios operacionais enfrentados pela empresa, mas também aprimorar significativamente a qualidade dos serviços oferecidos aos usuários.
+
  
 ### Etapas de Desenvolvimento ✅
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api4.png" width="800"> </p>
