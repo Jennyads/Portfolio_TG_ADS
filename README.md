@@ -330,7 +330,7 @@ Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a 
 
  
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api4.png" width="800"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api5.png" width="800"> </p>
 
 ### Resultado Final ✅
 #### Aplicação:
