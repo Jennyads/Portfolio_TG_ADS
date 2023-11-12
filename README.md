@@ -310,7 +310,7 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
 
 <span id="5sem">
 
-A Imagem Geosistemas, reconhecida como a distribuidora oficial da plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela renomada empresa americana Esri, apresentou um desafio crucial no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
+A Imagem Geosistemas, reconhecida como a distribuidora oficial da plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela empresa americana Esri, apresentou um desafio no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
 <br><br>
 Diante dessa demanda específica, surgiu a necessidade de desenvolver uma aplicação móvel que possibilitou o gerenciamento eficiente, tanto online quanto offline, dos dados relacionados aos equipamentos (ativos) da empresa. Este desafio se tornou particularmente evidente em situações críticas, como processos de manobras, nos quais a manutenção de equipamentos em campo poderia impactar a rede de serviços, causando efeitos nos clientes conectados.
 <br><br>
@@ -347,11 +347,11 @@ Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a 
 #### Contribuições Pessoais
 Inicialmente, minha principal responsabilidade envolveu a construção das entidades e seus respectivos relacionamentos no banco de dados. Para otimizar esse processo, fiz uso do TypeORM, uma ferramenta que simplificou a gestão e a estruturação do banco de dados.
 <br><br>
-No âmbito do frontend, contribuí de maneira significativa no desenvolvimento da tela de cadastro de ativos, garantindo uma experiência intuitiva e eficiente para os usuários finais. Na segunda sprint, concentrei meus esforços no desenvolvimento da tela de login, implementando-a e integrando-a de maneira eficaz com o servidor.
+No âmbito do frontend, contribuí no desenvolvimento da tela de cadastro de ativos, garantindo uma experiência intuitiva e eficiente para os usuários finais. Na segunda sprint, concentrei meus esforços no desenvolvimento da tela de login, implementando-a e integrando-a de maneira eficaz com o servidor.
 <br><br>
 A terceira sprint apresentou desafios mais complexos, pois lidou com uma demanda mais elevada. Nesse estágio, fui encarregada do desenvolvimento da tela de aprovação de novos cadastros no nível de administrador. Isso implicou a criação de uma lógica intricada, onde diferentes status (ativo, pendente ou desativado) demandavam ações específicas do administrador. Realizei a integração com o servidor e implementei a coluna de status, utilizando enum na tabela de usuários já existente no banco de dados.
 <br><br>
-Na última sprint, minha responsabilidade foi a implementação do elemento de atualização para o GPS. Esse recurso visa proporcionar aos usuários uma forma rápida e fácil de atualizar suas posições no mapa, especialmente considerando a natureza dinâmica dos trabalhos de campo, onde o deslocamento constante é uma realidade. Essa adição visa melhorar a usabilidade e a precisão da aplicação em situações práticas.
+Na última sprint, minha responsabilidade foi a implementação do elemento de atualização para o GPS. Esse recurso tinha como propósito proporcionar aos usuários uma forma rápida e fácil de atualizar suas posições no mapa, especialmente considerando a natureza dinâmica dos trabalhos de campo, onde o deslocamento constante é uma realidade. Assim, essa adição visou melhorar a usabilidade e a precisão da aplicação em situações práticas.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
@@ -368,7 +368,7 @@ Na última sprint, minha responsabilidade foi a implementação do elemento de a
   
 * Colaboração Efetiva: Trabalhei de forma colaborativa nas frentes de backend e frontend, garantindo uma integração coesa entre as partes. Isso envolveu a comunicação eficaz com a equipe para garantir que todas as funcionalidades estivessem alinhadas e atendessem às expectativas.
 
-* Pensamento Analítico e Resolução de Desafios Técnicos: A implementação de funcionalidades como a tela de aprovação de novos cadastros e a integração eficiente com o servidor demandou um pensamento analítico aguçado e a habilidade de superar desafios técnicos.
+* Pensamento Analítico e Resolução de Desafios Técnicos: A implementação de funcionalidades como a tela de aprovação de novos cadastros e a integração eficiente com o servidor demandou um pensamento analítico e a habilidade de superar desafios técnicos.
 
 * Inovação e Melhoria Contínua: Introduzi melhorias visuais e funcionais durante o processo, como a adição do botão de atualização para o GPS, demonstrando uma mentalidade inovadora e o compromisso com a melhoria contínua do produto.
 
