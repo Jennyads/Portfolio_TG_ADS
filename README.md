@@ -318,6 +318,8 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
    </a> 
 </div>  
 
+### 2023-2 | [GIT](https://github.com/peonia-api/API_5_Semestre)
+
 <span id="5sem">
 
 A Imagem Geosistemas, reconhecida como a distribuidora oficial da excepcional plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela renomada empresa americana Esri, apresentou um desafio crucial no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
@@ -335,20 +337,23 @@ Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a 
 https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-bb6a-ac128995f2eb
 
 #### Tecnologias Utilizadas
-* HTML5 & CSS3: Linguagens de marcação
-* TypeScript: Linguagem de programação
-* Git: Versionamento
-* GitHub: Armazenamento de código
-* Teams: Comunicação
-* Figma: Prototipagem
-* NodeJS: Runtime
-* ReactJS: Framework
-* TypeORM: Framework
-* DevOps: Planejamento
-* PostgreSQL: Banco de dados
-* EmailJS: Observer e redefinição de senha
-* Nodemailer: Observer e redefinição de senha
-* Google Cloud Platform: Deployment
+- [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
+- [TypeScript](https://www.typescriptlang.org/): Linguagem de programação
+- [Python](https://www.python.org/doc/): Linguagem de programação
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Roteamento de URL e renderização de página
+- [Git](https://git-scm.com): Versionamento
+- [GitHub](https://github.com/): Armazenamento de código
+- [Teams](https://teams.microsoft.com): Comunicação interna do grupo
+- [Slack](https://slack.com/intl/pt-br): Comunicação com o cliente
+- [NodeJS](https://nodejs.org/): Runtime
+- [React Native](https://reactnative.dev/docs/getting-started): Framework
+- [TypeORM](https://typeorm.io/): Framework
+- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento e Gestão
+- [API Expo Geolocation](https://docs.expo.dev/versions/latest/sdk/location/): API de Geolocalização
+- [Docker](https://docs.docker.com): Microserviços relativos à integração Front End e Back End;
+- [Azure](https://learn.microsoft.com/en-us/azure/cloud-services/): Cloud usada para hospedar bancos de dados;
+- [MongoDB](https://www.mongodb.com/docs/): Banco de dados NoSQL
+- [PostgresSQL](https://www.postgresql.org/docs/): Banco de dados SQL
 
 #### Contribuições Pessoais
   Durante o projeto, minha principal responsabilidade concentrou-se no desenvolvimento do backend, onde assumi a responsabilidade pela implementação de métodos de criação, listagem, atualização e exclusão de entidades relacionadas a chamados, grupos e usuários. Para assegurar o correto funcionamento desses métodos, estabeleci uma conexão eficiente com o banco de dados, criando as tabelas correspondentes e garantindo a integridade dos dados. 
