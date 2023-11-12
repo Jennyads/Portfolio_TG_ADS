@@ -368,19 +368,21 @@ Na última sprint, minha responsabilidade foi a implementação do elemento de a
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
 |:---------:|:---------:|:---------:|
+| Docker | Gerenciador de contêineres | Competente | 
 | Typescript | Linguagem de programação | Competente | 
-| React | Criação de interface gráfica | Competente | 
-| PostgreSQL  | Banco de Dados | Proficiente | 
+| Python | Linguagem de programação | Sei fazer com ajuda | 
+| React Native | Criação de interface gráfica | Sei fazer com ajuda | 
+| PostgresSQL  | Banco de Dados | Proficiente | 
 | Git | Controle de versionamento | Proficiente |
 
 #### Soft Skills
 * Adaptabilidade e Resolução de Problemas:  Desde a construção do banco de dados até a implementação de funcionalidades mais complexas, minha capacidade de se adaptar a diferentes demandas e resolver problemas emergentes foi fundamental, assim desenvolvi habilidades ao lidar com desafios variados durante as diferentes sprints do projeto.
-* 
-*Colaboração Efetiva: Trabalhei de forma colaborativa nas frentes de backend e frontend, garantindo uma integração coesa entre as partes. Isso envolveu a comunicação eficaz com a equipe para garantir que todas as funcionalidades estivessem alinhadas e atendessem às expectativas.
+  
+* Colaboração Efetiva: Trabalhei de forma colaborativa nas frentes de backend e frontend, garantindo uma integração coesa entre as partes. Isso envolveu a comunicação eficaz com a equipe para garantir que todas as funcionalidades estivessem alinhadas e atendessem às expectativas.
 
-*Pensamento Analítico e Resolução de Desafios Técnicos: A implementação de funcionalidades como a tela de aprovação de novos cadastros e a integração eficiente com o servidor demandou um pensamento analítico aguçado e a habilidade de superar desafios técnicos.
+* Pensamento Analítico e Resolução de Desafios Técnicos: A implementação de funcionalidades como a tela de aprovação de novos cadastros e a integração eficiente com o servidor demandou um pensamento analítico aguçado e a habilidade de superar desafios técnicos.
 
-*Inovação e Melhoria Contínua: Introduzi melhorias visuais e funcionais durante o processo, como a adição do botão de atualização para o GPS, demonstrando uma mentalidade inovadora e o compromisso com a melhoria contínua do produto.
+* Inovação e Melhoria Contínua: Introduzi melhorias visuais e funcionais durante o processo, como a adição do botão de atualização para o GPS, demonstrando uma mentalidade inovadora e o compromisso com a melhoria contínua do produto.
 
 <h3 align="left">✉️ Contatos </h3> 
  <div align="left"> 
