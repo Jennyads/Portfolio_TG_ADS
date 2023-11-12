@@ -310,7 +310,7 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
 
 <span id="5sem">
 
-A Imagem Geosistemas, reconhecida como a distribuidora oficial da excepcional plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela renomada empresa americana Esri, apresentou um desafio crucial no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
+A Imagem Geosistemas, reconhecida como a distribuidora oficial da plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela renomada empresa americana Esri, apresentou um desafio crucial no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
 <br><br>
 Diante dessa demanda específica, surgiu a necessidade de desenvolver uma aplicação móvel que possibilitou o gerenciamento eficiente, tanto online quanto offline, dos dados relacionados aos equipamentos (ativos) da empresa. Este desafio se tornou particularmente evidente em situações críticas, como processos de manobras, nos quais a manutenção de equipamentos em campo poderia impactar a rede de serviços, causando efeitos nos clientes conectados.
 <br><br>
