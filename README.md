@@ -10,7 +10,7 @@
 <br><br>
   A minha primeira graduação se iniciou em 2017 no curso de Licenciatura em Química pelo Instituto Federal de São Paulo (IFSP), essa experiência me agregou demasiados conhecimentos e vivências, como participação em congresso, realização de projetos pedagógicos, participação em iniciação científica com estudo de nanopartículas de zircônia na UNIFESP e o estágio aplicando aulas em escolas públicas de ensino médio. Depois, iniciei meu processo de mestrado no INPE, contudo por motivos maiores decidi fazer uma transição de carreira para a área de tecnologia, inspirando-me na carreira do meu marido.
 <br><br>
-  Cursando o quarto semestre de ADS, participei de um processo seletivo de estágio para entrar na instituição financeira DM. O processo contou com 7 etapas, consegui passar por todas e iniciar minha primeira experiência profissional na área. Atualmente, trabalho na área de inovação que tem como foco o produto PIX PARCELADO que se resume em uma alternativa as formas de pagamento tradicionais de compras (dinheiro, cartão de crédito e débito). Esse produto foi e está sendo desenvolvido do zero, assim atuo nas task de front e back-end (tenho mais domínio e preferência por tasks de back). No começo do estágio foi desafiador, pois tive que lidar com tecnologias e linguagens que não tive contato na faculdade, exemplo: Golang, Flutter, HBS, Docker e Kubernetes, NEXT JS (framework para react), banco de dados com arquitetura em grafo (Neptune), arquitetura de micros serviço, GRPC para comunicação entre diferentes sistemas via conexão de rede, além de outros serviços da AWS, Microsoft, Datadog e Keycloak. Além dessas tecnologias que não tinha domínio, tenho contato também com linguagens conhecidas por meio da fatec, como Java, React, Typescript e Python.
+  Cursando o quarto semestre de ADS, participei de um processo seletivo de estágio para entrar na instituição financeira DM. O processo contou com 7 etapas, consegui passar por todas e iniciar minha primeira experiência profissional na área. Atualmente, trabalho na área de inovação que tem como foco o produto PIX PARCELADO que se resume em uma alternativa as formas de pagamento tradicionais de compras (dinheiro, cartão de crédito e débito). Esse produto foi e está sendo desenvolvido do zero, assim atuo nas task de front e back-end (tenho mais domínio e preferência por tasks de back). No começo do estágio foi desafiador, pois tive que lidar com tecnologias e linguagens que não tive contato na faculdade, exemplo: Golang, Flutter, HBS, Docker e Kubernetes, NEXT JS (framework para react), banco de dados com arquitetura em grafo (Neptune), arquitetura de micros serviço, GRPC para comunicação entre diferentes sistemas via conexão de rede, além de outros serviços da AWS, Microsoft, Datadog e Keycloak. Além dessas tecnologias que não tinha domínio, tenho contato também com linguagens conhecidas por meio da Fatec São José dos Campos, como Java, React, Typescript e Python.
 <br><br>
 Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cursos para aprofundar meus conhecimentos:
 
@@ -77,9 +77,9 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
 </div>
 
 ### 2021-2 | [GIT](https://github.com/EquipeApolo/API_1SEM)
-
+<h2>1º Semestre</h2>
 <span id="1sem">
-  A solução para o problema que orientou este projeto foi aprimorar a acessibilidade e a segurança da visualização dos Projetos de Aprendizagem por Projeto Integrador da Fatec SJC. Inicialmente, a visualização desses projetos era realizada por meio do site da Fatec, onde ao selecionar uma equipe desejada, apenas o link do YouTube estava disponível, com o GitHub da equipe na descrição do vídeo. No entanto, essa abordagem apresentou insegurança e instabilidade no controle desses projetos, uma vez que a Fatec não possuía controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza em relação à disponibilidade e à proteção contínua dos projetos no GitHub. Dessa forma, o projeto buscou solucionar essas preocupações, garantindo maior confiabilidade, controle e preservação dos recursos acadêmicos e de aprendizado que passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web dirigida pela rede administrativa da FATEC.
+  A solução para o problema que orientou este projeto foi aprimorar a acessibilidade e a segurança da visualização dos Projetos de Aprendizagem por Projeto Integrador da Fatec São José dos Campos. Inicialmente, a visualização desses projetos era realizada por meio do site da Fatec São José dos Campos, onde ao selecionar uma equipe desejada, apenas o link do YouTube estava disponível, com o GitHub da equipe na descrição do vídeo. No entanto, essa abordagem apresentou insegurança e instabilidade no controle desses projetos, uma vez que a Fatec São José dos Campos não possuía controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza em relação à disponibilidade e à proteção contínua dos projetos no GitHub. Dessa forma, o projeto buscou solucionar essas preocupações, garantindo maior confiabilidade, controle e preservação dos recursos acadêmicos e de aprendizado que passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web dirigida pela rede administrativa da Fatec São José dos Campos.
 <br><br>
   Em termos técnicos, foi necessário automatizar o processo de Clonagem via Scraping dos repositórios existentes no Github, assim criou-se um script em python para tal efeito. Após finalizar a etapa de raspagem, todos os repositórios clonados de forma automatizada foram exibidos em uma página web construída com HTML e CSS, concentrado a visualização e acesso dessas informações.
 
@@ -158,7 +158,7 @@ with open(r"C:/Users/thale/Desktop/API/API_1SEM/endereços_github_api.txt") as f
 </div>
 
 ### 2022-1 | [GIT](https://github.com/EquipeApolo/API-2-Semestre)
-
+<h2>2º Semestre</h2>
 <span id="2sem">
   A solução para o problema que motivou este projeto consistiu em aprimorar a comunicação da empresa Pro4Tech com seus clientes. Para isso, foi desenvolvido um sistema que permitiu o registro de mensagens provenientes de diversas fontes, como SMS, WhatsApp, e-mail e outras, com o objetivo de centralizar e facilitar o acesso a todas as mensagens. Consequentemente, a ideia evoluiu para permitir o acesso a essas mensagens através de uma aplicação dedicada, no qual clientes, administradores e suporte poderiam também enviar mensagens para destinatários individuais ou para grupos específicos que os englobassem..
 <br><br>
@@ -208,7 +208,7 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/edfd3bd0-a7a4-455f-
 </div>
 
 ### 2022-2 | [GIT](https://github.com/EquipeApolo/API_3_Semestre)
-
+<h2>3º Semestre</h2>
 <span id="3sem">
   A solução para o problema que motivou este projeto consistiu em criar uma interface que permitisse aos pilotos de aeronaves calcular a distância necessária para realizar pousos seguros com base em diversos parâmetros.  Para realizar esse cálculo de forma precisa, uma tabela foi disponibilizada que levava em consideração uma série de fatores, incuindo o modelo de aeronave,tipo de motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.
 <br><br>
@@ -257,7 +257,7 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/edfd3bd0-a7a4-455f-
 * Gestão do Tempo: Demonstrar a capacidade de gerenciar tarefas e projetos de forma eficiente, garantindo que os prazos sejam cumpridos, utilizar o gráfico de burndown para monitorar o progresso das tarefas e manter um controle rigoroso dos prazos estipulados para o projeto.
 
 ### 2023-1 | [GIT](https://github.com/peonia-api/API_4_Semestre)
-
+<h2>4º Semestre</h2>
 <span id="4sem">
   A resolução do problema que motivou a concepção deste projeto envolveu a criação de uma plataforma de gestão de solicitações internas para a Ionic Health. Essa plataforma foi projetada para atender às demandas de correções críticas (hotfix) e implementação de novas funcionalidades (feature), encaminhando-as às equipes apropriadas. Além disso, ela possibilitou a aprovação de novas funcionalidades por meio de um comitê de avaliação. Com a implementação dessa plataforma, a empresa conseguiu aprimorar a comunicação interna, a colaboração entre as equipes e a capacidade de monitorar o desempenho do processo de desenvolvimento de produtos.
 <br><br>
@@ -307,7 +307,7 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/7a54a257-e226-4549-
  
 
 ### 2023-2 | [GIT](https://github.com/peonia-api/API_5_Semestre)
-
+<h2>5º Semestre</h2>
 <span id="5sem">
 
 A Imagem Geosistemas, reconhecida como a distribuidora oficial da plataforma de GIS e Location Intelligence, o ArcGIS, desenvolvido pela empresa americana Esri, apresentou um desafio no âmbito da gestão de equipamentos em campo. Nas áreas de engenharia, como Saneamento, Elétrica e Telecomunicações, a realização de obras e manutenção de equipamentos tornou essencial a busca por uma solução inovadora.
