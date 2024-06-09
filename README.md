@@ -392,9 +392,12 @@ O sistema desenvolvido pela equipe forneceu uma interface permitindo aos usuári
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprint-6.png" width="800"> </p>
 
 ### Resultado Final ✅
-#### Aplicação:
+#### IA - Detecção de entrada e saída de pessoas:
 https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/525468d5-c42c-42be-a277-b43ad0ce8c9b
-https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/6f9d377d-f627-4752-95af-9d71557b4529
+
+
+#### Aplicação e gerenciamento:
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/d80b6d4b-a524-4b66-bfa6-de0759a1b1a0
 
 
 
