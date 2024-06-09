@@ -324,9 +324,8 @@ Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a 
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api5.png" width="800"> </p>
 
 ### Resultado Final ✅
-<details>
-  <summary><a href="https://github.com/peonia-api/API_5_Semestre" target="_blank">Clique para ver o resultado final da aplicação mobile apresentada</a></summary>
-</details>
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/419d7d6c-5d0d-4faf-a8b3-ace418922888
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/eff2c6d5-6621-41a9-aa49-12bc221d21c1
 
 #### Tecnologias Utilizadas
 - [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
