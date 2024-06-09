@@ -384,3 +384,69 @@ Na última sprint, minha responsabilidade foi a implementação do elemento de a
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
    </a> 
 </div>  
+
+### 2024-1 | [GIT](https://github.com/peonia-api/API_6_Semestre)
+<h2>6º Semestre</h2>
+<span id="6sem">
+
+A Altave Intelligent Monitoring trouxe como proposta o desenvolvimento de um sistema automático para contabilizar o número de pessoas que entravam e saíam das áreas de acesso restrito conhecidas como Red Zones na indústria petrolífera e em embarcações de exploração de petróleo. Essas áreas precisavam ser monitoradas quanto à quantidade de acessos, o que anteriormente era realizado por meio de câmeras instaladas nesses locais. As imagens eram monitoradas por guardas, e todos os registros de entrada e saída eram anotados manualmente em planilhas.
+
+Devido ao trabalho manual, essas anotações estavam sujeitas a erros humanos, tornando a geração de relatórios uma tarefa trabalhosa. Para resolver essa situação problemática, a equipe Peônia foi responsável por desenvolver o sistema proposto pela Altave. Importante lembrar que a câmera utilizada cobria todos os pontos de entrada e saída, mas poderia não alcançar toda a área da Red Zone.
+
+O sistema desenvolvido pela equipe forneceu uma interface permitindo aos usuários visualizar em tempo real a quantidade de pessoas no local, bem como consultar a movimentação na região em um período de tempo selecionado. Além disso, o sistema monitorava diversas Red Zones em cada departamento. O acesso era restrito aos guardas de cada departamento, enquanto o gerente de segurança tinha acesso aos dados de todos os locais.
+
+ 
+### Etapas de Desenvolvimento ✅
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api5.png" width="800"> </p>
+
+### Resultado Final ✅
+<details>
+  <summary><a href="https://github.com/peonia-api/API_5_Semestre" target="_blank">Clique para ver o resultado final da aplicação mobile apresentada</a></summary>
+</details>
+
+#### Tecnologias Utilizadas
+- [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
+- [TypeScript](https://www.typescriptlang.org/): Linguagem de programação
+- [Python](https://www.python.org/doc/): Linguagem de programação
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Roteamento de URL e renderização de página
+- [Git](https://git-scm.com): Versionamento
+- [GitHub](https://github.com/): Armazenamento de código
+- [Teams](https://teams.microsoft.com): Comunicação interna do grupo
+- [Slack](https://slack.com/intl/pt-br): Comunicação com o cliente
+- [NodeJS](https://nodejs.org/): Runtime
+- [React Native](https://reactnative.dev/docs/getting-started): Framework
+- [TypeORM](https://typeorm.io/): Framework
+- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento e Gestão
+- [API Expo Geolocation](https://docs.expo.dev/versions/latest/sdk/location/): API de Geolocalização
+- [Docker](https://docs.docker.com): Microserviços relativos à integração Front End e Back End;
+- [Azure](https://learn.microsoft.com/en-us/azure/cloud-services/): Cloud usada para hospedar bancos de dados;
+- [MongoDB](https://www.mongodb.com/docs/): Banco de dados NoSQL
+- [PostgresSQL](https://www.postgresql.org/docs/): Banco de dados SQL
+
+#### Contribuições Pessoais
+Inicialmente, minha principal responsabilidade envolveu a construção das entidades e seus respectivos relacionamentos no banco de dados. Para otimizar esse processo, fiz uso do TypeORM, uma ferramenta que simplificou a gestão e a estruturação do banco de dados.
+<br><br>
+No âmbito do frontend, contribuí no desenvolvimento da tela de cadastro de ativos, garantindo uma experiência intuitiva e eficiente para os usuários finais. Na segunda sprint, concentrei meus esforços no desenvolvimento da tela de login, implementando-a e integrando-a de maneira eficaz com o servidor.
+<br><br>
+A terceira sprint apresentou desafios mais complexos, pois lidou com uma demanda mais elevada. Nesse estágio, fui encarregada do desenvolvimento da tela de aprovação de novos cadastros no nível de administrador. Isso implicou a criação de uma lógica intricada, onde diferentes status (ativo, pendente ou desativado) demandavam ações específicas do administrador. Realizei a integração com o servidor e implementei a coluna de status, utilizando enum na tabela de usuários já existente no banco de dados.
+<br><br>
+Na última sprint, minha responsabilidade foi a implementação do elemento de atualização para o GPS. Esse recurso tinha como propósito proporcionar aos usuários uma forma rápida e fácil de atualizar suas posições no mapa, especialmente considerando a natureza dinâmica dos trabalhos de campo, onde o deslocamento constante é uma realidade. Assim, essa adição visou melhorar a usabilidade e a precisão da aplicação em situações práticas.
+
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Docker | Gerenciador de contêineres | Competente | 
+| Typescript | Linguagem de programação | Competente | 
+| Python | Linguagem de programação | Sei fazer com ajuda | 
+| React Native | Criação de interface gráfica | Sei fazer com ajuda | 
+| PostgresSQL  | Banco de Dados | Proficiente | 
+| Git | Controle de versionamento | Proficiente |
+
+#### Soft Skills
+* Adaptabilidade e Resolução de Problemas:  Desde a construção do banco de dados até a implementação de funcionalidades mais complexas, minha capacidade de se adaptar a diferentes demandas e resolver problemas emergentes foi fundamental, assim desenvolvi habilidades ao lidar com desafios variados durante as diferentes sprints do projeto.
+  
+* Colaboração Efetiva: Trabalhei de forma colaborativa nas frentes de backend e frontend, garantindo uma integração coesa entre as partes. Isso envolveu a comunicação eficaz com a equipe para garantir que todas as funcionalidades estivessem alinhadas e atendessem às expectativas.
+
+* Pensamento Analítico e Resolução de Desafios Técnicos: A implementação de funcionalidades como a tela de aprovação de novos cadastros e a integração eficiente com o servidor demandou um pensamento analítico e a habilidade de superar desafios técnicos.
+
+* Inovação e Melhoria Contínua: Introduzi melhorias visuais e funcionais durante o processo, como a adição do botão de atualização para o GPS, demonstrando uma mentalidade inovadora e o compromisso com a melhoria contínua do produto.
