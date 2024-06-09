@@ -22,11 +22,10 @@ Sendo assim, para conseguir lidar com tantos recursos tecnológicos, realizei cu
   
  |   Curso  |    Plataforma de Ensino    |
  | :------:      | :------: |
- | Docker para Desenvolvedores com Docker Swarm e Kubernetes - Cursando | UDEMY |
- | gRPC [Golang] Master Class: Build Modern API & Microservices - Cursando | UDEMY |
- | Domine Apache Kafka, Fundamentos e Aplicações Reais - Cursando | UDEMY |
  | Golang, Postgres e React num projeto fullstack de finanças - Cursando | UDEMY |
- | [Formação: Gerencie aplicações react com Typescript](https://cursos.alura.com.br/degree/certificate/ccb135f1-3245-48bd-b166-bc3550e386f9) | Alura |
+ | [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/certificate/UC-1438aad8-144f-4ca4-8938-10512b604c5c/) | UDEMY |
+ | [Docker para Desenvolvedores com Docker Swarm e Kubernetes](https://www.udemy.com/certificate/UC-96239902-6306-4c60-810c-b7dc43418dba/)| UDEMY |
+ | [Domine Apache Kafka, Fundamentos e Aplicações Reais](https://www.udemy.com/certificate/UC-06cf380a-ef44-44dc-a2b3-5d9deb4c9084/) | UDEMY |
  | [Formação: Gerencie aplicações react com Typescript](https://cursos.alura.com.br/degree/certificate/ccb135f1-3245-48bd-b166-bc3550e386f9) | Alura |
  | [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/certificate/576aa4cb-c3d5-4493-8db7-9ce2f159b989) | Alura |
  | [Rect: Gerenciando estado com Recoil](https://cursos.alura.com.br/certificate/4c1e072a-0cfd-4671-930c-3a15a61a6b3d) | Alura |
