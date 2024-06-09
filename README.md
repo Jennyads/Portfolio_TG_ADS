@@ -436,9 +436,13 @@ Na última sprint, minha responsabilidade foi a implementação do elemento de a
 
 * Colaboração Efetiva: Trabalhei de forma colaborativa, explicando toda a aplicação para a equipe, garantindo integração coesa entre backend e frontend. Usei Teams para comunicação interna com a equipe.
 
-*Proatividade e Gestão de Tempo: Fui proativa na execução das minhas tarefas, entregando-as dentro do prazo. Auxiliei em tarefas adicionais, como a impressão de logs de entrada e saída reconhecidos pela IA e o envio de dados de registro em tempo real para o front.
+* Proatividade e Gestão de Tempo: Fui proativa na execução das minhas tarefas, entregando-as dentro do prazo. Auxiliei em tarefas adicionais, como a impressão de logs de entrada e saída reconhecidos pela IA e o envio de dados de registro em tempo real para o front.
 
 * Inovação e Melhoria Contínua: Contribuí com melhorias contínuas, otimizando funcionalidades e processos do sistema. Estive sempre focada em aprimorar a qualidade do produto final.
+
+* Pensamento Crítico e Analítico: A implementação de funcionalidades complexas, como o sistema de autenticação e o monitoramento em tempo real, demandou um pensamento crítico e a capacidade de analisar problemas detalhadamente para encontrar as melhores soluções.
+
+* Flexibilidade e Multitarefa: Consegui gerenciar múltiplas tarefas simultaneamente, desde a configuração de bancos de dados até a integração de microserviços, demonstrando flexibilidade e capacidade de multitarefa.
 
 <h3 align="left">✉️ Contatos </h3> 
  <div align="left"> 
