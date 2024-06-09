@@ -372,19 +372,6 @@ Na última sprint, minha responsabilidade foi a implementação do elemento de a
 
 * Inovação e Melhoria Contínua: Introduzi melhorias visuais e funcionais durante o processo, como a adição do botão de atualização para o GPS, demonstrando uma mentalidade inovadora e o compromisso com a melhoria contínua do produto.
 
-<h3 align="left">✉️ Contatos </h3> 
- <div align="left"> 
-  <a href = "mailto:jennycristina.1998@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-cristina-65787b205/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
-  </a>
-  <a href="https://instagram.com/jennycristinafp" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
-   </a> 
-</div>  
-
 ### 2024-1 | [GIT](https://github.com/peonia-api/API_6_Semestre)
 <h2>6º Semestre</h2>
 <span id="6sem">
@@ -397,7 +384,7 @@ O sistema desenvolvido pela equipe forneceu uma interface permitindo aos usuári
 
  
 ### Etapas de Desenvolvimento ✅
-<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api5.png" width="800"> </p>
+<p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprint-6.png" width="800"> </p>
 
 ### Resultado Final ✅
 <details>
@@ -405,23 +392,19 @@ O sistema desenvolvido pela equipe forneceu uma interface permitindo aos usuári
 </details>
 
 #### Tecnologias Utilizadas
-- [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
-- [TypeScript](https://www.typescriptlang.org/): Linguagem de programação
-- [Python](https://www.python.org/doc/): Linguagem de programação
-- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Roteamento de URL e renderização de página
-- [Git](https://git-scm.com): Versionamento
+- [Git](https://git-scm.com): Versionamento de código
 - [GitHub](https://github.com/): Armazenamento de código
 - [Teams](https://teams.microsoft.com): Comunicação interna do grupo
 - [Slack](https://slack.com/intl/pt-br): Comunicação com o cliente
-- [NodeJS](https://nodejs.org/): Runtime
-- [React Native](https://reactnative.dev/docs/getting-started): Framework
-- [TypeORM](https://typeorm.io/): Framework
-- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento e Gestão
-- [API Expo Geolocation](https://docs.expo.dev/versions/latest/sdk/location/): API de Geolocalização
-- [Docker](https://docs.docker.com): Microserviços relativos à integração Front End e Back End;
-- [Azure](https://learn.microsoft.com/en-us/azure/cloud-services/): Cloud usada para hospedar bancos de dados;
-- [MongoDB](https://www.mongodb.com/docs/): Banco de dados NoSQL
-- [PostgresSQL](https://www.postgresql.org/docs/): Banco de dados SQL
+- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento e gestão do projeto
+- [Docker](https://docs.docker.com/): Integração entre Front-End e Back-End
+- [PostgreSQL](https://www.postgresql.org/): Banco de dados SQL
+- [MongoDB](https://www.mongodb.com/pt-br): Banco de dados NoSQL
+- [Python](https://www.python.org/): Automação com inteligência artificial
+- [Java](https://www.java.com/pt-BR/): Aplicação de lógica de programação no back-end
+- [Spring](https://spring.io/): Framework de desenvolvimento de aplicações Java 
+- [Vue](https://vuejs.org/): Framework para a construção de interfaces web
+- [Typescript](https://www.typescriptlang.org/): Linguagem de programação aplicada para front-end
 
 #### Contribuições Pessoais
 Inicialmente, minha principal responsabilidade envolveu a construção das entidades e seus respectivos relacionamentos no banco de dados. Para otimizar esse processo, fiz uso do TypeORM, uma ferramenta que simplificou a gestão e a estruturação do banco de dados.
@@ -435,18 +418,35 @@ Na última sprint, minha responsabilidade foi a implementação do elemento de a
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
 |:---------:|:---------:|:---------:|
-| Docker | Gerenciador de contêineres | Competente | 
+| Java | Lógica de programação no back-end | Proficiente | 
+| Spring | Framework de desenvolvimento Java | Competente | 
+| Vue | Construção de interfaces web	 | Competente | 
+| Docker | Gerenciador de contêineres | Proficiente | 
 | Typescript | Linguagem de programação | Competente | 
-| Python | Linguagem de programação | Sei fazer com ajuda | 
-| React Native | Criação de interface gráfica | Sei fazer com ajuda | 
-| PostgresSQL  | Banco de Dados | Proficiente | 
-| Git | Controle de versionamento | Proficiente |
+| Python | Automação com inteligência artificial | Competente | 
+| MongoDB  | Banco de Dados NoSQL | Competente | 
+| PostgresSQL  | Banco de Dados SQL | Proficiente | 
+| Git | Controle de versionamento e armazenamento de código | Proficiente |
 
 #### Soft Skills
-* Adaptabilidade e Resolução de Problemas:  Desde a construção do banco de dados até a implementação de funcionalidades mais complexas, minha capacidade de se adaptar a diferentes demandas e resolver problemas emergentes foi fundamental, assim desenvolvi habilidades ao lidar com desafios variados durante as diferentes sprints do projeto.
-  
-* Colaboração Efetiva: Trabalhei de forma colaborativa nas frentes de backend e frontend, garantindo uma integração coesa entre as partes. Isso envolveu a comunicação eficaz com a equipe para garantir que todas as funcionalidades estivessem alinhadas e atendessem às expectativas.
+* Adaptabilidade e Resolução de Problemas: Estruturei dois microsserviços e configurei autenticação de login, bancos de dados e deploy em Docker. Resolvi desafios técnicos emergentes e me adaptei a diferentes demandas do projeto.
 
-* Pensamento Analítico e Resolução de Desafios Técnicos: A implementação de funcionalidades como a tela de aprovação de novos cadastros e a integração eficiente com o servidor demandou um pensamento analítico e a habilidade de superar desafios técnicos.
+* Colaboração Efetiva: Trabalhei de forma colaborativa, explicando toda a aplicação para a equipe, garantindo integração coesa entre backend e frontend. Usei Teams para comunicação interna com a equipe.
 
-* Inovação e Melhoria Contínua: Introduzi melhorias visuais e funcionais durante o processo, como a adição do botão de atualização para o GPS, demonstrando uma mentalidade inovadora e o compromisso com a melhoria contínua do produto.
+*Proatividade e Gestão de Tempo: Fui proativa na execução das minhas tarefas, entregando-as dentro do prazo. Auxiliei em tarefas adicionais, como a impressão de logs de entrada e saída reconhecidos pela IA e o envio de dados de registro em tempo real para o front.
+
+* Inovação e Melhoria Contínua: Contribuí com melhorias contínuas, otimizando funcionalidades e processos do sistema. Estive sempre focada em aprimorar a qualidade do produto final.
+
+<h3 align="left">✉️ Contatos </h3> 
+ <div align="left"> 
+  <a href = "mailto:jennycristina.1998@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jeniffer-cristina-65787b205/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+  </a>
+  <a href="https://instagram.com/jennycristinafp" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
+   </a> 
+</div>  
+
