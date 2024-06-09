@@ -324,8 +324,9 @@ Com base nesse contexto, propôs-se o desenvolvimento de um projeto destinado a 
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/etapas_desenvolvimento_api5.png" width="800"> </p>
 
 ### Resultado Final ✅
-https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/419d7d6c-5d0d-4faf-a8b3-ace418922888
-https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/eff2c6d5-6621-41a9-aa49-12bc221d21c1
+<details>
+  <summary><a href="https://github.com/peonia-api/API_5_Semestre" target="_blank">Clique para ver o resultado final da aplicação mobile apresentada</a></summary>
+</details>
 
 #### Tecnologias Utilizadas
 - [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
@@ -391,9 +392,11 @@ O sistema desenvolvido pela equipe forneceu uma interface permitindo aos usuári
 <p align="center"> <img src ="https://github.com/Jennyads/Portfolio_TG_ADS/blob/master/Imagens/sprint-6.png" width="800"> </p>
 
 ### Resultado Final ✅
-<details>
-  <summary><a href="https://github.com/peonia-api/API_5_Semestre" target="_blank">Clique para ver o resultado final da aplicação mobile apresentada</a></summary>
-</details>
+#### Aplicação:
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/525468d5-c42c-42be-a277-b43ad0ce8c9b
+https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/6f9d377d-f627-4752-95af-9d71557b4529
+
+
 
 #### Tecnologias Utilizadas
 - [Git](https://git-scm.com): Versionamento de código
