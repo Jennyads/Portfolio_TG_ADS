@@ -417,13 +417,15 @@ https://github.com/Jennyads/Portfolio_TG_ADS/assets/88725100/d80b6d4b-a524-4b66-
 - [Typescript](https://www.typescriptlang.org/): Linguagem de programação aplicada para front-end
 
 #### Contribuições Pessoais
-Inicialmente, minha principal responsabilidade envolveu a construção das entidades e seus respectivos relacionamentos no banco de dados. Para otimizar esse processo, fiz uso do TypeORM, uma ferramenta que simplificou a gestão e a estruturação do banco de dados.
-<br><br>
-No âmbito do frontend, contribuí no desenvolvimento da tela de cadastro de ativos, garantindo uma experiência intuitiva e eficiente para os usuários finais. Na segunda sprint, concentrei meus esforços no desenvolvimento da tela de login, implementando-a e integrando-a de maneira eficaz com o servidor.
-<br><br>
-A terceira sprint apresentou desafios mais complexos, pois lidou com uma demanda mais elevada. Nesse estágio, fui encarregada do desenvolvimento da tela de aprovação de novos cadastros no nível de administrador. Isso implicou a criação de uma lógica intricada, onde diferentes status (ativo, pendente ou desativado) demandavam ações específicas do administrador. Realizei a integração com o servidor e implementei a coluna de status, utilizando enum na tabela de usuários já existente no banco de dados.
-<br><br>
-Na última sprint, minha responsabilidade foi a implementação do elemento de atualização para o GPS. Esse recurso tinha como propósito proporcionar aos usuários uma forma rápida e fácil de atualizar suas posições no mapa, especialmente considerando a natureza dinâmica dos trabalhos de campo, onde o deslocamento constante é uma realidade. Assim, essa adição visou melhorar a usabilidade e a precisão da aplicação em situações práticas.
+Na primeira etapa do projeto, foquei na estruturação do backend, separando-o em dois microsserviços distintos: um para login e outro para registro de movimentações. Essa abordagem modular visou otimizar a escalabilidade e a manutenção do sistema.
+
+Para o microsserviço de login, desenvolvi toda a lógica de autenticação e autorização, incluindo CRUDs para usuários, áreas e redzones. Utilizei PostgreSQL devido à necessidade de gerenciar relacionamentos complexos entre as entidades. Por exemplo, implementei regras onde um usuário pode ter apenas um tipo de permissão (admin, guard ou manager), uma área pode criar várias redzones, mas cada redzone é atribuída a uma única área. Além disso, admins podem criar usuários, áreas e redzones, e atribuir managers como responsáveis por áreas. Managers, por sua vez, podem criar redzones e designar guards responsáveis. Esta estrutura foi crucial para garantir uma gestão clara e eficiente dos diferentes níveis de acesso e responsabilidades dentro do sistema.
+
+No microsserviço de registro, responsável por monitorar entradas e saídas de pessoas nas redzones, optei por utilizar MongoDB. A escolha foi baseada na necessidade de um banco de dados flexível e escalável, sem a complexidade de relacionamentos. MongoDB se mostrou ideal para armazenar os registros de movimentação detectados pela inteligência artificial, facilitando a coleta e armazenamento de grandes volumes de dados sem comprometer a performance. Nesse contexto, o frontend foi configurado para interagir diretamente com cada microsserviço conforme necessário, garantindo uma separação clara de responsabilidades e uma comunicação eficiente entre os componentes do sistema.
+
+Durante as sprints subsequentes, meu papel se expandiu para garantir a integração coesa entre os microsserviços e o frontend. Configurei o Docker para cada microsserviço, assegurando um ambiente de desenvolvimento consistente e facilitando o deploy. Além disso, implementei funcionalidades adicionais, como a impressão de logs de entrada e saída e o envio de dados de registro em tempo real para o frontend, demonstrando proatividade e compromisso com a entrega de um sistema robusto e eficiente.
+
+Através dessas contribuições, consegui otimizar a arquitetura do sistema, garantindo que cada componente cumprisse seu papel de maneira eficaz e integrada. Isso não apenas favoreceu a escalabilidade e a manutenção do projeto, mas também assegurou que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos, atendendo às expectativas dos usuários e stakeholders.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
